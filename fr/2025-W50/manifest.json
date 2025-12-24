@@ -630,7 +630,7 @@
                 "quarante-quatre"
             ],
             "sentence": "Mon rendez-vous est à dix-neuf heures quarante-quatre.",
-            "audio_ref": "fr/2025-W50/audio/time_19:44_appointment_time_fr-FR-AlainNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/time_19_44_appointment_time_fr-FR-AlainNeural.mp3",
             "blueprint_id": "appointment_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -645,7 +645,7 @@
                 "vingt-sept"
             ],
             "sentence": "Le train partira à huit heures vingt-sept.",
-            "audio_ref": "fr/2025-W50/audio/time_08:27_train_departure_time_fr-FR-HenriNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/time_08_27_train_departure_time_fr-FR-HenriNeural.mp3",
             "blueprint_id": "train_departure_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -660,7 +660,7 @@
                 "vingt-et-un"
             ],
             "sentence": "Mon rendez-vous est à quatorze heures … vingt-et-un.",
-            "audio_ref": "fr/2025-W50/audio/time_14:21_appointment_time_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/time_14_21_appointment_time_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "appointment_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -675,7 +675,7 @@
                 "trente"
             ],
             "sentence": "Le train pour Lyon part à dix heures trente.",
-            "audio_ref": "fr/2025-W50/audio/time_10:30_train_departure_time_fr-FR-HenriNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/time_10_30_train_departure_time_fr-FR-HenriNeural.mp3",
             "blueprint_id": "train_departure_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -788,7 +788,7 @@
                 "trente"
             ],
             "sentence": "Le train part à dix heures … trente.",
-            "audio_ref": "fr/2025-W50/audio/time_10:30_train_departure_time_fr-FR-AlainNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/time_10_30_train_departure_time_fr-FR-AlainNeural.mp3",
             "blueprint_id": "train_departure_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:39:54.042069Z",
