@@ -390,7 +390,7 @@
                 "soixante-cinq"
             ],
             "sentence": "Le montant total de la facture s'élève à neuf cent quarante-trois euros soixante-cinq.",
-            "audio_ref": "1VwGg3mN2sJ8_m8x06l_1a6wjXqo7Uq3s",
+            "audio_ref": "fr/2025-W50/audio/price_943.65_service_fee_fr-FR-AlainNeural.mp3",
             "blueprint_id": "service_fee",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -405,7 +405,7 @@
                 "six"
             ],
             "sentence": "C'est mille sept cent vingt-deux euros six.",
-            "audio_ref": "1gZJ2p5Q6S0vU76pMHnbc8MQTDN0r0X6V",
+            "audio_ref": "fr/2025-W50/audio/price_1722.06_shop_price_fr-FR-HenriNeural.mp3",
             "blueprint_id": "shop_price",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -420,7 +420,7 @@
                 "dix-huit"
             ],
             "sentence": "C'est mille sept cent soixante-dix-huit euros dix-huit.",
-            "audio_ref": "1gZJ2p5Q6S0vU76pMHnbc8MQTDN0r0X6V",
+            "audio_ref": "fr/2025-W50/audio/price_1778.18_service_fee_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "service_fee",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
