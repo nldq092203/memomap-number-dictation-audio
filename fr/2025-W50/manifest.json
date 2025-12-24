@@ -204,7 +204,7 @@
                 "cinquante"
             ],
             "sentence": "Laissez un message au zéro six vingt-sept cinquante-quatre quarante-et-un cinquante, s'il vous plaît.",
-            "audio_ref": "fr/2025-W50/audio/phone_0627544150_missed_call_message_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/phone_0627544150_missed_call_message.mp3",
             "blueprint_id": "missed_call_message",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -237,7 +237,7 @@
                 "soixante-six"
             ],
             "sentence": "Mon numéro c'est zéro six trente-deux vingt-quatre quarante-deux soixante-six.",
-            "audio_ref": "fr/2025-W50/audio/phone_0632244266_casual_phone_call_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/phone_0632244266_casual_phone_call.mp3",
             "blueprint_id": "casual_phone_call",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -273,7 +273,7 @@
                 "zéro trois"
             ],
             "sentence": "Laissez-moi votre numéro. C'est zéro six soixante-douze zéro deux zéro six quatre-vingt-onze zéro trois.",
-            "audio_ref": "fr/2025-W50/audio/phone_0672069103_missed_call_message_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/phone_0672069103_missed_call_message.mp3",
             "blueprint_id": "missed_call_message",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -345,7 +345,7 @@
                 "zéro quatre"
             ],
             "sentence": "Mon numéro c'est zéro six quatre-vingt-seize quarante trente-et-un zéro quatre.",
-            "audio_ref": "fr/2025-W50/audio/phone_0696403104_professional_contact_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/phone_0696403104_professional_contact.mp3",
             "blueprint_id": "professional_contact",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -360,7 +360,7 @@
                 "dix-huit"
             ],
             "sentence": "C'est huit cent dix euros dix-huit.",
-            "audio_ref": "fr/2025-W50/audio/price_810.18_shop_price_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/price_810.18_shop_price.mp3",
             "blueprint_id": "shop_price",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -375,7 +375,7 @@
                 "quinze"
             ],
             "sentence": "Le total du service s'élève à huit cent quarante-deux euros quinze.",
-            "audio_ref": "fr/2025-W50/audio/price_842.15_service_fee_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/price_842.15_service_fee.mp3",
             "blueprint_id": "service_fee",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -435,7 +435,7 @@
                 "quarante"
             ],
             "sentence": "Le montant total s'èleve à deux mille quatre-vingt-neuf euros quarante.",
-            "audio_ref": "fr/2025-W50/audio/price_2089.40_service_fee_fr-FR-HenriNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/price_2089.40_service_fee.mp3",
             "blueprint_id": "service_fee",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -480,7 +480,7 @@
                 "quatre-huit"
             ],
             "sentence": "ça fait quatre mille quatre cent quatre-vingt-deux euros quatre-huit.",
-            "audio_ref": "fr/2025-W50/audio/price_4482.24_shop_price_fr-FR-HenriNeural.mp3",
+            "audio_ref": "fr/2025-W50/audio/price_4482.24_shop_price.mp3",
             "blueprint_id": "shop_price",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
