@@ -1,0 +1,179 @@
+{
+    "meta": {
+        "type": "compréhension_écrite",
+        "niveau": "B2",
+        "titre": "Les dangers du poêle à pétrole en logement collectif",
+        "format": "Nouveau Format (QCM)",
+        "total_questions": 12
+    },
+    "questions": [
+        {
+            "id": "CE_01",
+            "type": "single_choice",
+            "question": "Quel est l'objectif principal de ce texte ?",
+            "options": [
+                "Expliquer le fonctionnement technique d'un poêle à pétrole.",
+                "Mettre en garde contre l'utilisation illégale et dangereuse de cet appareil en appartement.",
+                "Comparer les différents types de combustibles liquides sur le marché."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Le texte vise à prévenir les risques et rappeler l'interdiction légale : 'Utiliser un poêle à pétrole dans un appartement est illégal et extrêmement dangereux'."
+        },
+        {
+            "id": "CE_02",
+            "type": "single_choice",
+            "question": "Selon le texte, pourquoi l'interdiction est-elle une 'mesure de protection essentielle' et non un détail administratif ?",
+            "options": [
+                "Parce qu'elle permet aux assurances de faire des économies.",
+                "Parce qu'elle est fondée sur des décennies d'expérience et d'études techniques.",
+                "Parce que le gouvernement veut promouvoir le chauffage électrique."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "L'auteur précise : 'fondée sur des décennies d’expérience et d’études techniques'."
+        },
+        {
+            "id": "CE_03",
+            "type": "lexical_in_context",
+            "question": "Dans la phrase 'un danger inhérent à l’appareil', que signifie l'adjectif 'inhérent' ?",
+            "options": [
+                "Qui est lié de manière inséparable à la nature de l'appareil.",
+                "Qui est visible seulement lors de la première utilisation.",
+                "Qui est causé par une mauvaise fabrication."
+            ],
+            "correct_indices": [
+                0
+            ],
+            "explanation": "Inhérent signifie qui appartient essentiellement à un être ou à une chose."
+        },
+        {
+            "id": "CE_04",
+            "type": "inference",
+            "question": "Pourquoi la conception mobile de l'appareil est-elle présentée comme un défaut de sécurité ?",
+            "options": [
+                "Parce qu'elle incite au vol.",
+                "Parce qu'elle rend l'appareil instable et sujet au basculement.",
+                "Parce qu'elle empêche un chauffage homogène de la pièce."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Le texte explique : 'conçu pour la mobilité, et non pour une stabilité parfaite [...] peuvent le faire basculer'."
+        },
+        {
+            "id": "CE_05",
+            "type": "single_choice",
+            "question": "Quelle différence majeure l'auteur établit-il entre une maison individuelle et un immeuble collectif en cas d'incendie ?",
+            "options": [
+                "En immeuble, les fumées toxiques se propagent rapidement à l'ensemble de la copropriété.",
+                "En maison, les pompiers arrivent plus vite.",
+                "En immeuble, les murs sont plus résistants au feu."
+            ],
+            "correct_indices": [
+                0
+            ],
+            "explanation": "Le texte souligne : 'En immeuble collectif [...] Les flammes et surtout les fumées toxiques se propagent rapidement par les portes, les gaines...'."
+        },
+        {
+            "id": "CE_06",
+            "type": "lexical_in_context",
+            "question": "Que signifie l'adjectif 'trompeurs' qualifiant les symptômes du monoxyde de carbone ?",
+            "options": [
+                "Qui sont très douloureux.",
+                "Qui peuvent être confondus avec une maladie bénigne comme la fatigue.",
+                "Qui apparaissent uniquement la nuit."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Ils sont trompeurs car banals (maux de tête, fatigue) et masquent la gravité de l'intoxication."
+        },
+        {
+            "id": "CE_07",
+            "type": "single_choice",
+            "question": "Quel effet secondaire la combustion du pétrole a-t-elle sur l'environnement intérieur, outre les gaz toxiques ?",
+            "options": [
+                "Elle assèche l'air.",
+                "Elle favorise le développement de moisissures par la production de vapeur d'eau.",
+                "Elle génère une poussière noire visible immédiatement."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Le texte mentionne : 'Une quantité importante de vapeur d’eau est également produite, favorisant l’humidité et le développement de moisissures'."
+        },
+        {
+            "id": "CE_08",
+            "type": "inference",
+            "question": "Pourquoi l'article R.111-13 du Code de la construction s'applique-t-il spécifiquement à ce cas ?",
+            "options": [
+                "Parce qu'il interdit tout appareil de chauffage mobile.",
+                "Parce qu'il interdit les combustibles liquides dans des conditions compromettant la sécurité (volume clos).",
+                "Parce qu'il oblige à utiliser le chauffage collectif."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "L'article interdit l'usage 'dans des conditions susceptibles de compromettre la sécurité', ce qui correspond au 'volume clos et partagé'."
+        },
+        {
+            "id": "CE_09",
+            "type": "single_choice",
+            "question": "Quelle est la conséquence financière pour l'utilisateur en cas de sinistre ?",
+            "options": [
+                "Il devra payer une franchise doublée.",
+                "L'assurance refusera probablement la prise en charge et il devra payer tous les dégâts.",
+                "L'État prendra en charge les réparations via un fonds de solidarité."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Le texte avertit : 'votre assurance habitation refusera très probablement toute prise en charge. Vous pourriez être tenu financièrement responsable'."
+        },
+        {
+            "id": "CE_10",
+            "type": "single_choice",
+            "question": "Sur le plan pénal, quelle accusation l'utilisateur risque-t-il ?",
+            "options": [
+                "Fraude à l'assurance.",
+                "Tapage nocturne.",
+                "Mise en danger de la vie d'autrui."
+            ],
+            "correct_indices": [
+                2
+            ],
+            "explanation": "Le texte est explicite : 'vous pourriez également être poursuivi pour mise en danger de la vie d’autrui'."
+        },
+        {
+            "id": "CE_11",
+            "type": "single_choice",
+            "question": "Quelle alternative est présentée comme la seule solution acceptable pour un appareil à combustion ?",
+            "options": [
+                "Une installation par un professionnel avec évacuation des fumées aux normes.",
+                "L'utilisation d'un poêle à gaz butane.",
+                "L'ouverture permanente des fenêtres pendant l'utilisation."
+            ],
+            "correct_indices": [
+                0
+            ],
+            "explanation": "Les appareils à combustion ne sont envisageables que 's’ils sont installés par un professionnel, avec un conduit d’évacuation'."
+        },
+        {
+            "id": "CE_12",
+            "type": "author_intention",
+            "question": "Quel est le ton de la conclusion de l'article ?",
+            "options": [
+                "Moralisateur et punitif.",
+                "Informatif et orienté vers des solutions sécurisées.",
+                "Désespéré face à la pauvreté énergétique."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "L'auteur propose des solutions ('chauffage électrique fixe', 'aides') et conclut sur la protection de la vie ('Choisir la sécurité')."
+        }
+    ]
+}

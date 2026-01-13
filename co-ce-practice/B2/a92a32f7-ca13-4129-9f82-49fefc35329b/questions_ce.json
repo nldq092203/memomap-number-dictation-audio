@@ -1,0 +1,179 @@
+{
+    "meta": {
+        "type": "compréhension_écrite",
+        "niveau": "B2",
+        "titre": "L'IA et la santé des femmes : limites et biais",
+        "format": "Nouveau Format (QCM)",
+        "total_questions": 12
+    },
+    "questions": [
+        {
+            "id": "CE_01",
+            "type": "single_choice",
+            "question": "Pourquoi les femmes utilisent-elles les chatbots d'IA avant de consulter un médecin ?",
+            "options": [
+                "Parce qu'ils remplacent définitivement le médecin.",
+                "Parce qu'ils sont perçus comme neutres et accessibles.",
+                "Parce qu'ils sont plus précis que les spécialistes."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Le texte indique : 'Ces outils, accessibles et perçus comme neutres, sont souvent utilisés comme un premier filtre'."
+        },
+        {
+            "id": "CE_02",
+            "type": "single_choice",
+            "question": "Quelle méthodologie les chercheuses ont-elles adoptée pour tester les IA ?",
+            "options": [
+                "Elles ont posé des questions simples du quotidien.",
+                "Elles ont choisi des scénarios difficiles où le retard de diagnostic est dangereux.",
+                "Elles ont utilisé les questions les plus posées sur Google."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Le texte précise : 'visaient surtout des situations où un retard ou une banalisation du symptôme peut poser problème'."
+        },
+        {
+            "id": "CE_03",
+            "type": "lexical_in_context",
+            "question": "Dans la phrase 'banalisation du symptôme', que signifie 'banalisation' ?",
+            "options": [
+                "Le fait de considérer le symptôme comme sans gravité.",
+                "Le fait d'exagérer la douleur.",
+                "Le fait de cacher le symptôme au médecin."
+            ],
+            "correct_indices": [
+                0
+            ],
+            "explanation": "Banaliser signifie rendre banal, ordinaire, et donc minimiser l'importance ou la gravité de quelque chose."
+        },
+        {
+            "id": "CE_04",
+            "type": "single_choice",
+            "question": "Sur quel critère les réponses des IA étaient-elles jugées 'insuffisantes' ?",
+            "options": [
+                "Si elles contenaient des fautes d'orthographe.",
+                "Si elles étaient trop longues à lire.",
+                "Si elles ne signalaient pas un risque sérieux ou n'orientaient pas vers une prise en charge."
+            ],
+            "correct_indices": [
+                2
+            ],
+            "explanation": "Critère cité : 'Lorsque les modèles ne signalaient pas un risque sérieux ou n’orientaient pas clairement vers une prise en charge adaptée'."
+        },
+        {
+            "id": "CE_05",
+            "type": "inference",
+            "question": "Que révèle la comparaison entre GPT-5 et Ministral 8B ?",
+            "options": [
+                "Que tous les modèles se valent.",
+                "Que même le modèle le plus performant échoue dans près de la moitié des cas.",
+                "Que les modèles français sont supérieurs aux modèles américains."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "GPT-5 est le meilleur mais a 'environ 47 % d’échecs', ce qui reste un taux d'erreur très élevé (près de la moitié)."
+        },
+        {
+            "id": "CE_06",
+            "type": "single_choice",
+            "question": "Quel était l'objectif principal de l'équipe de recherche selon Victoria-Elisabeth Gruber ?",
+            "options": [
+                "Prouver que l'IA est dangereuse et doit être interdite.",
+                "Définir une norme d'évaluation clinique claire pour l'avenir.",
+                "Faire la promotion des modèles les plus performants."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Citation : 'Notre objectif n’était pas d’affirmer que les modèles sont globalement dangereux, mais de définir une norme d’évaluation clinique claire'."
+        },
+        {
+            "id": "CE_07",
+            "type": "lexical_in_context",
+            "question": "Que signifie l'expression 'cadre volontairement conservateur' dans ce contexte ?",
+            "options": [
+                "Une approche politique traditionnelle.",
+                "Une approche prudente et stricte en matière de sécurité.",
+                "Une approche qui refuse l'usage de la technologie."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Ici, conservateur signifie prudent : on ne prend pas de risque avec la santé, donc la moindre omission est comptée comme un échec."
+        },
+        {
+            "id": "CE_08",
+            "type": "single_choice",
+            "question": "Quel biais structurel de l'IA est mis en avant dans l'article ?",
+            "options": [
+                "L'IA a tendance à minimiser les symptômes qui ne correspondent pas aux standards masculins.",
+                "L'IA favorise systématiquement les femmes dans ses diagnostics.",
+                "L'IA refuse de répondre aux questions d'ordre gynécologique."
+            ],
+            "correct_indices": [
+                0
+            ],
+            "explanation": "Le texte note que l'IA minimise les symptômes 'lorsqu’ils ne correspondent pas aux présentations « classiques »' (souvent basées sur les hommes)."
+        },
+        {
+            "id": "CE_09",
+            "type": "inference",
+            "question": "Pourquoi l'étude mentionne-t-elle la cardiologie ?",
+            "options": [
+                "Pour illustrer comment le même symptôme est traité différemment selon le sexe du patient.",
+                "Parce que c'est la seule spécialité où l'IA est fiable.",
+                "Parce que les femmes n'ont pas de problèmes cardiaques."
+            ],
+            "correct_indices": [
+                0
+            ],
+            "explanation": "Le texte cite la cardiologie pour mettre en évidence les 'différences de recommandations lorsque les mêmes symptômes sont présentés comme appartenant à un homme ou à une femme'."
+        },
+        {
+            "id": "CE_10",
+            "type": "single_choice",
+            "question": "Quelle est l'attente réelle des utilisatrices vis-à-vis de l'IA (rôle de triage) ?",
+            "options": [
+                "Obtenir une ordonnance de médicaments.",
+                "Savoir si leur cas est grave et si elles doivent consulter rapidement.",
+                "Avoir un diagnostic précis et détaillé de leur maladie."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Le texte dit : 'Beaucoup de femmes ne cherchent pas un diagnostic précis, mais une réponse simple : est-ce grave ? Dois-je consulter maintenant ?'."
+        },
+        {
+            "id": "CE_11",
+            "type": "single_choice",
+            "question": "Selon Cara Tannenbaum, quelle est la solution pour améliorer ces outils ?",
+            "options": [
+                "Interdire aux femmes d'utiliser l'IA.",
+                "Mettre à jour les données avec des informations explicites liées au sexe et au genre.",
+                "Remplacer les médecins par des IA plus performantes."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Citation finale : 'la nécessité de mettre à jour les contenus médicaux en ligne avec des données explicites liées au sexe et au genre'."
+        },
+        {
+            "id": "CE_12",
+            "type": "author_intention",
+            "question": "Quelle est la conclusion générale de l'article ?",
+            "options": [
+                "L'IA est prête à remplacer les médecins généralistes.",
+                "L'IA reproduit les biais de la médecine humaine et doit être améliorée pour servir de filtre fiable.",
+                "L'IA est un gadget inutile pour la santé."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "L'article conclut sur le risque de reproduire les 'angles morts' de la médecine sans une vigilance accrue sur les données."
+        }
+    ]
+}

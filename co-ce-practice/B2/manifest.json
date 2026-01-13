@@ -80,6 +80,33 @@
             "created_at": "2026-01-12T21:28:15.782303+00:00",
             "updated_at": "2026-01-12T21:28:15.782303+00:00",
             "audio_filename": "co-ce-practice/B2/f7934955-afc9-4edf-94ae-8f0102cab870/audio.mp3"
+        },
+        {
+            "id": "a92a32f7-ca13-4129-9f82-49fefc35329b",
+            "name": "De plus en plus de femmes interrogent l’IA sur leur santé : une étude alerte sur les urgences mal détectées",
+            "duration_seconds": 239,
+            "language": "fr",
+            "created_at": "2026-01-13T13:54:31.502654+00:00",
+            "updated_at": "2026-01-13T13:54:31.502654+00:00",
+            "audio_filename": "co-ce-practice/B2/a92a32f7-ca13-4129-9f82-49fefc35329b/audio.mp3"
+        },
+        {
+            "id": "331b5d95-7901-466d-b7c2-1889c45bd496",
+            "name": "Pourquoi le poêle à pétrole est-il interdit en appartement ?",
+            "duration_seconds": 312,
+            "language": "fr",
+            "created_at": "2026-01-13T14:06:14.826782+00:00",
+            "updated_at": "2026-01-13T14:06:14.826782+00:00",
+            "audio_filename": "co-ce-practice/B2/331b5d95-7901-466d-b7c2-1889c45bd496/audio.mp3"
+        },
+        {
+            "id": "f87e8470-2610-40f0-81be-e8f6285a23b5",
+            "name": "Le Groenland est unique au monde sur le plan géologique, et c’est un problème",
+            "duration_seconds": 258,
+            "language": "fr",
+            "created_at": "2026-01-13T14:01:30.983580+00:00",
+            "updated_at": "2026-01-13T14:01:30.983580+00:00",
+            "audio_filename": "co-ce-practice/B2/f87e8470-2610-40f0-81be-e8f6285a23b5/audio.mp3"
         }
     ]
 }
