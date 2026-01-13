@@ -15,7 +15,7 @@
                 "trente-et-un"
             ],
             "sentence": "Vous pouvez me joindre au zéro six vingt zéro un cinquante-trois trente-et-un.",
-            "audio_ref": "fr/2025-W50/audio/phone_0620015331_customer_support_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0620015331_customer_support_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "customer_support",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -33,7 +33,7 @@
                 "quarante-neuf"
             ],
             "sentence": "Mon numéro de portable est le zéro six … zéro cinq … quarante-six … soixante-dix-neuf … quarante-neuf.",
-            "audio_ref": "fr/2025-W50/audio/phone_0605467949_professional_contact_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0605467949_professional_contact_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "professional_contact",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -51,7 +51,7 @@
                 "zéro sept"
             ],
             "sentence": "Vous pouvez me rappeler au zéro six quarante-quatre zéro trois trente-sept zéro sept.",
-            "audio_ref": "fr/2025-W50/audio/phone_0644033707_missed_call_message_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0644033707_missed_call_message_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "missed_call_message",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -69,7 +69,7 @@
                 "quinze"
             ],
             "sentence": "Mon numéro est le zéro six … soixante-huit … quatre-vingt-quatre … cinquante-sept … quinze.",
-            "audio_ref": "fr/2025-W50/audio/phone_0668845715_missed_call_message_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0668845715_missed_call_message_fr-FR-AlainNeural.mp3",
             "blueprint_id": "missed_call_message",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -87,7 +87,7 @@
                 "cinquante-sept"
             ],
             "sentence": "Ah non, je me suis trompé, j'ai fait le zéro six quarante-neuf quarante-neuf zéro cinq cinquante-sept.",
-            "audio_ref": "fr/2025-W50/audio/phone_0649490557_wrong_number_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0649490557_wrong_number_fr-FR-HenriNeural.mp3",
             "blueprint_id": "wrong_number",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -102,7 +102,7 @@
                 "soixante-dix"
             ],
             "sentence": "Ça fait quatre mille quatre cent trente-et-un euros soixante-dix.",
-            "audio_ref": "fr/2025-W50/audio/price_4431.70_restaurant_bill_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_4431.70_restaurant_bill_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "restaurant_bill",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -117,7 +117,7 @@
                 "soixante-six"
             ],
             "sentence": "C'est une bonne affaire, ça fait seulement deux mille six cent dix-sept euros soixante-six.",
-            "audio_ref": "fr/2025-W50/audio/price_2617.66_discount_price_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_2617.66_discount_price_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "discount_price",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -132,7 +132,7 @@
                 "soixante-six"
             ],
             "sentence": "Le total est de quatre-vingt-un euros … soixante-six.",
-            "audio_ref": "fr/2025-W50/audio/price_81.66_online_order_total_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_81.66_online_order_total_fr-FR-HenriNeural.mp3",
             "blueprint_id": "online_order_total",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -150,7 +150,7 @@
                 "trente"
             ],
             "sentence": "Laissez un message au zéro six zéro six six six trois cinq trente.",
-            "audio_ref": "fr/2025-W50/audio/phone_0606663530_missed_call_message_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0606663530_missed_call_message_fr-FR-HenriNeural.mp3",
             "blueprint_id": "missed_call_message",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -168,7 +168,7 @@
                 "douze"
             ],
             "sentence": "Vous pouvez me rappeler au zéro six vingt-et-un zéro un quarante-six douze.",
-            "audio_ref": "fr/2025-W50/audio/phone_0621014612_missed_call_message_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0621014612_missed_call_message_fr-FR-AlainNeural.mp3",
             "blueprint_id": "missed_call_message",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -186,7 +186,7 @@
                 "cinquante-quatre"
             ],
             "sentence": "Vous pouvez me joindre au zéro six … vingt-quatre … quarante-cinq … vingt-huit … cinquante-quatre.",
-            "audio_ref": "fr/2025-W50/audio/phone_0624452854_professional_contact_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0624452854_professional_contact_fr-FR-AlainNeural.mp3",
             "blueprint_id": "professional_contact",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -204,7 +204,7 @@
                 "cinquante"
             ],
             "sentence": "Laissez un message au zéro six vingt-sept cinquante-quatre quarante-et-un cinquante, s'il vous plaît.",
-            "audio_ref": "fr/2025-W50/audio/phone_0627544150_missed_call_message.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0627544150_missed_call_message.mp3",
             "blueprint_id": "missed_call_message",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -219,7 +219,7 @@
                 "seize"
             ],
             "sentence": "C'est mille neuf cent quarante-trois euros seize.",
-            "audio_ref": "fr/2025-W50/audio/price_1943.16_shop_price_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_1943.16_shop_price_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "shop_price",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -237,7 +237,7 @@
                 "soixante-six"
             ],
             "sentence": "Mon numéro c'est zéro six trente-deux vingt-quatre quarante-deux soixante-six.",
-            "audio_ref": "fr/2025-W50/audio/phone_0632244266_casual_phone_call.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0632244266_casual_phone_call.mp3",
             "blueprint_id": "casual_phone_call",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -255,7 +255,7 @@
                 "vingt-neuf"
             ],
             "sentence": "Laissez-moi un message au zéro six cinquante-six zéro deux quarante-sept vingt-neuf.",
-            "audio_ref": "fr/2025-W50/audio/phone_0656024729_missed_call_message_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0656024729_missed_call_message_fr-FR-HenriNeural.mp3",
             "blueprint_id": "missed_call_message",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -273,7 +273,7 @@
                 "zéro trois"
             ],
             "sentence": "Laissez-moi votre numéro. C'est zéro six soixante-douze zéro deux zéro six quatre-vingt-onze zéro trois.",
-            "audio_ref": "fr/2025-W50/audio/phone_0672069103_missed_call_message.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0672069103_missed_call_message.mp3",
             "blueprint_id": "missed_call_message",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -291,7 +291,7 @@
                 "vingt-quatre"
             ],
             "sentence": "Vous pouvez me rappeler au zéro six soixante-quatre cinquante-un soixante-seize vingt-quatre.",
-            "audio_ref": "fr/2025-W50/audio/phone_0674517624_missed_call_message.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0674517624_missed_call_message.mp3",
             "blueprint_id": "missed_call_message",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -309,7 +309,7 @@
                 "vingt-neuf"
             ],
             "sentence": "Alors, mon numéro c'est zéro six quatre-vingt zéro un seize vingt-neuf.",
-            "audio_ref": "fr/2025-W50/audio/phone_0680011629_casual_phone_call_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0680011629_casual_phone_call_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "casual_phone_call",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -327,7 +327,7 @@
                 "trente-deux"
             ],
             "sentence": "Ok, voici mon numéro : zéro six quatre-vingt-dix quatre-huit quatorze trente-deux.",
-            "audio_ref": "fr/2025-W50/audio/phone_0690481432_casual_phone_call_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0690481432_casual_phone_call_fr-FR-HenriNeural.mp3",
             "blueprint_id": "casual_phone_call",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -345,7 +345,7 @@
                 "zéro quatre"
             ],
             "sentence": "Mon numéro c'est zéro six quatre-vingt-seize quarante trente-et-un zéro quatre.",
-            "audio_ref": "fr/2025-W50/audio/phone_0696403104_professional_contact.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0696403104_professional_contact.mp3",
             "blueprint_id": "professional_contact",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -360,7 +360,7 @@
                 "dix-huit"
             ],
             "sentence": "C'est huit cent dix euros dix-huit.",
-            "audio_ref": "fr/2025-W50/audio/price_810.18_shop_price.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_810.18_shop_price.mp3",
             "blueprint_id": "shop_price",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -375,7 +375,7 @@
                 "quinze"
             ],
             "sentence": "Le total du service s'élève à huit cent quarante-deux euros quinze.",
-            "audio_ref": "fr/2025-W50/audio/price_842.15_service_fee.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_842.15_service_fee.mp3",
             "blueprint_id": "service_fee",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -390,7 +390,7 @@
                 "soixante-cinq"
             ],
             "sentence": "Le montant total de la facture s'élève à neuf cent quarante-trois euros soixante-cinq.",
-            "audio_ref": "fr/2025-W50/audio/price_943.65_service_fee_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_943.65_service_fee_fr-FR-AlainNeural.mp3",
             "blueprint_id": "service_fee",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -405,7 +405,7 @@
                 "six"
             ],
             "sentence": "C'est mille sept cent vingt-deux euros six.",
-            "audio_ref": "fr/2025-W50/audio/price_1722.06_shop_price_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_1722.06_shop_price_fr-FR-HenriNeural.mp3",
             "blueprint_id": "shop_price",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -420,7 +420,7 @@
                 "dix-huit"
             ],
             "sentence": "C'est mille sept cent soixante-dix-huit euros dix-huit.",
-            "audio_ref": "fr/2025-W50/audio/price_1778.18_service_fee_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_1778.18_service_fee_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "service_fee",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -435,7 +435,7 @@
                 "quarante"
             ],
             "sentence": "Le montant total s'èleve à deux mille quatre-vingt-neuf euros quarante.",
-            "audio_ref": "fr/2025-W50/audio/price_2089.40_service_fee.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_2089.40_service_fee.mp3",
             "blueprint_id": "service_fee",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -450,7 +450,7 @@
                 "quatre-huit"
             ],
             "sentence": "ça fait deux mille cinq cent quatre-vingt-quinze euros quatre-huit.",
-            "audio_ref": "fr/2025-W50/audio/price_2595.48_shop_price_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_2595.48_shop_price_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "shop_price",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -465,7 +465,7 @@
                 "quatre-huit"
             ],
             "sentence": "C'est trois mille trois cent cinquante-quatre euros quatre-huit.",
-            "audio_ref": "fr/2025-W50/audio/price_3354.34_shop_price_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_3354.34_shop_price_fr-FR-HenriNeural.mp3",
             "blueprint_id": "shop_price",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -480,7 +480,7 @@
                 "quatre-huit"
             ],
             "sentence": "ça fait quatre mille quatre cent quatre-vingt-deux euros quatre-huit.",
-            "audio_ref": "fr/2025-W50/audio/price_4482.24_shop_price.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_4482.24_shop_price.mp3",
             "blueprint_id": "shop_price",
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
@@ -495,7 +495,7 @@
                 "soixante-douze"
             ],
             "sentence": "Elle a obtenu son diplôme en mille neuf cent soixante-douze.",
-            "audio_ref": "fr/2025-W50/audio/year_1972_school_graduation_year_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/year_1972_school_graduation_year_fr-FR-HenriNeural.mp3",
             "blueprint_id": "school_graduation_year",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T20:56:42.574234Z",
@@ -510,7 +510,7 @@
                 "quatre-vingt-sept"
             ],
             "sentence": "J'ai obtenu mon diplôme en mille neuf cent quatre-vingt-sept.",
-            "audio_ref": "fr/2025-W50/audio/year_1987_school_graduation_year_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/year_1987_school_graduation_year_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "school_graduation_year",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T20:56:42.574234Z",
@@ -525,7 +525,7 @@
                 "quatre-vingt-neuf"
             ],
             "sentence": "J'ai obtenu mon diplôme en mille neuf cent quatre-vingt-neuf.",
-            "audio_ref": "fr/2025-W50/audio/year_1989_school_graduation_year_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/year_1989_school_graduation_year_fr-FR-AlainNeural.mp3",
             "blueprint_id": "school_graduation_year",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T20:56:42.574234Z",
@@ -540,7 +540,7 @@
                 "soixante"
             ],
             "sentence": "La société a été fondée en mille neuf cent soixante.",
-            "audio_ref": "fr/2025-W50/audio/year_1960_company_founding_year_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/year_1960_company_founding_year_fr-FR-HenriNeural.mp3",
             "blueprint_id": "company_founding_year",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T20:56:42.574234Z",
@@ -555,7 +555,7 @@
                 "quatre"
             ],
             "sentence": "Il s'est passé un événement marquant en mille neuf cent quatre.",
-            "audio_ref": "fr/2025-W50/audio/year_1904_historical_reference_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/year_1904_historical_reference_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "historical_reference",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:02:02.628296Z",
@@ -570,7 +570,7 @@
                 "quatre-vingts"
             ],
             "sentence": "Elle est née en mille neuf cent quatre-vingts.",
-            "audio_ref": "fr/2025-W50/audio/year_1980_biography_year_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/year_1980_biography_year_fr-FR-HenriNeural.mp3",
             "blueprint_id": "biography_year",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:02:02.628296Z",
@@ -585,7 +585,7 @@
                 "cinquante-cinq"
             ],
             "sentence": "Elle a obtenu son diplôme en mille neuf cent cinquante-cinq.",
-            "audio_ref": "fr/2025-W50/audio/year_1955_school_graduation_year_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/year_1955_school_graduation_year_fr-FR-AlainNeural.mp3",
             "blueprint_id": "school_graduation_year",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:02:02.628296Z",
@@ -600,7 +600,7 @@
                 "dix-huit"
             ],
             "sentence": "La fin de la Première Guerre mondiale, en mille neuf cent dix-huit, a marqué l'histoire.",
-            "audio_ref": "fr/2025-W50/audio/year_1918_historical_reference_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/year_1918_historical_reference_fr-FR-AlainNeural.mp3",
             "blueprint_id": "historical_reference",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:02:02.628296Z",
@@ -615,7 +615,7 @@
                 "quarante-deux"
             ],
             "sentence": "L'armistice a été signé en mille neuf cent quarante-deux.",
-            "audio_ref": "fr/2025-W50/audio/year_1942_historical_reference_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/year_1942_historical_reference_fr-FR-HenriNeural.mp3",
             "blueprint_id": "historical_reference",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:02:02.628296Z",
@@ -630,7 +630,7 @@
                 "quarante-quatre"
             ],
             "sentence": "Mon rendez-vous est à dix-neuf heures quarante-quatre.",
-            "audio_ref": "fr/2025-W50/audio/time_19_44_appointment_time_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/time_19_44_appointment_time_fr-FR-AlainNeural.mp3",
             "blueprint_id": "appointment_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -645,7 +645,7 @@
                 "vingt-sept"
             ],
             "sentence": "Le train partira à huit heures vingt-sept.",
-            "audio_ref": "fr/2025-W50/audio/time_08_27_train_departure_time_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/time_08_27_train_departure_time_fr-FR-HenriNeural.mp3",
             "blueprint_id": "train_departure_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -660,7 +660,7 @@
                 "vingt-et-un"
             ],
             "sentence": "Mon rendez-vous est à quatorze heures … vingt-et-un.",
-            "audio_ref": "fr/2025-W50/audio/time_14_21_appointment_time_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/time_14_21_appointment_time_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "appointment_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -675,7 +675,7 @@
                 "trente"
             ],
             "sentence": "Le train pour Lyon part à dix heures trente.",
-            "audio_ref": "fr/2025-W50/audio/time_10_30_train_departure_time_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/time_10_30_train_departure_time_fr-FR-HenriNeural.mp3",
             "blueprint_id": "train_departure_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -689,7 +689,7 @@
                 "trois cent soixante-quatorze"
             ],
             "sentence": "C'est le trois cent soixante-quatorze dans cette rue.",
-            "audio_ref": "fr/2025-W50/audio/address_374_home_address_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/address_374_home_address_fr-FR-HenriNeural.mp3",
             "blueprint_id": "home_address",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -703,7 +703,7 @@
                 "six cent huit"
             ],
             "sentence": "J'habite au six cent huit, rue de la Paix.",
-            "audio_ref": "fr/2025-W50/audio/address_608_home_address_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/address_608_home_address_fr-FR-AlainNeural.mp3",
             "blueprint_id": "home_address",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -717,7 +717,7 @@
                 "neuf cent soixante-dix-huit"
             ],
             "sentence": "C'est le numéro neuf cent soixante-dix-huit.",
-            "audio_ref": "fr/2025-W50/audio/address_978_delivery_address_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/address_978_delivery_address_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "delivery_address",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -731,7 +731,7 @@
                 "trente-trois"
             ],
             "sentence": "J'habite au trente-trois, rue Victor Hugo.",
-            "audio_ref": "fr/2025-W50/audio/address_33_home_address_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/address_33_home_address_fr-FR-HenriNeural.mp3",
             "blueprint_id": "home_address",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -745,7 +745,7 @@
                 "six cent quatorze"
             ],
             "sentence": "Ça sera au six cent quatorze.",
-            "audio_ref": "fr/2025-W50/audio/address_614_delivery_address_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/address_614_delivery_address_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "delivery_address",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -759,7 +759,7 @@
                 "quatre cents"
             ],
             "sentence": "L'étude a inclus quatre cents personnes.",
-            "audio_ref": "fr/2025-W50/audio/statistics_400_study_sample_size_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/statistics_400_study_sample_size_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "study_sample_size",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -773,7 +773,7 @@
                 "cent trente-cinq"
             ],
             "sentence": "L'étude a inclus cent trente-cinq participants.",
-            "audio_ref": "fr/2025-W50/audio/statistics_135_study_sample_size_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/statistics_135_study_sample_size_fr-FR-HenriNeural.mp3",
             "blueprint_id": "study_sample_size",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:31:38.157371Z",
@@ -788,7 +788,7 @@
                 "trente"
             ],
             "sentence": "Le train part à dix heures … trente.",
-            "audio_ref": "fr/2025-W50/audio/time_10_30_train_departure_time_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/time_10_30_train_departure_time_fr-FR-AlainNeural.mp3",
             "blueprint_id": "train_departure_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:39:54.042069Z",
@@ -802,7 +802,7 @@
                 "trois cent cinquante-neuf"
             ],
             "sentence": "La taille de l'échantillon est de trois cent cinquante-neuf personnes.",
-            "audio_ref": "fr/2025-W50/audio/statistics_359_study_sample_size_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/statistics_359_study_sample_size_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "study_sample_size",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:39:54.042069Z",
@@ -816,7 +816,7 @@
                 "six cent vingt-deux"
             ],
             "sentence": "Nous avons interrogé six cent vingt-deux participants pour cette étude.",
-            "audio_ref": "fr/2025-W50/audio/statistics_622_study_sample_size_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/statistics_622_study_sample_size_fr-FR-AlainNeural.mp3",
             "blueprint_id": "study_sample_size",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:39:54.042069Z",
@@ -830,7 +830,7 @@
                 "cinq cent soixante-dix-huit"
             ],
             "sentence": "La dose recommandée est de cinq cent soixante-dix-huit milligrammes.",
-            "audio_ref": "fr/2025-W50/audio/medical_578_medicine_dosage_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/medical_578_medicine_dosage_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "medicine_dosage",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:39:54.042069Z",
@@ -844,7 +844,7 @@
                 "huit cent quatorze"
             ],
             "sentence": "La dose est de huit cent quatorze milligrammes.",
-            "audio_ref": "fr/2025-W50/audio/medical_814_medicine_dosage_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/medical_814_medicine_dosage_fr-FR-AlainNeural.mp3",
             "blueprint_id": "medicine_dosage",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:39:54.042069Z",
@@ -858,7 +858,7 @@
                 "trois cent quatre-vingt-treize"
             ],
             "sentence": "La chambre de Paul est la trois cent quatre-vingt-treize.",
-            "audio_ref": "fr/2025-W50/audio/medical_393_hospital_room_number_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/medical_393_hospital_room_number_fr-FR-HenriNeural.mp3",
             "blueprint_id": "hospital_room_number",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:46:14.346841Z",
@@ -872,7 +872,7 @@
                 "huit cent soixante-huit"
             ],
             "sentence": "Le traitement complet comprend huit cent soixante-huit comprimés.",
-            "audio_ref": "fr/2025-W50/audio/medical_868_pharmacy_prescription_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/medical_868_pharmacy_prescription_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "pharmacy_prescription",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:46:14.346841Z",
@@ -886,7 +886,7 @@
                 "huit cent soixante-huit"
             ],
             "sentence": "Je crois qu'il est dans la chambre huit cent soixante-huit.",
-            "audio_ref": "fr/2025-W50/audio/medical_868_hospital_room_number_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/medical_868_hospital_room_number_fr-FR-HenriNeural.mp3",
             "blueprint_id": "hospital_room_number",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:46:14.346841Z",
@@ -900,7 +900,7 @@
                 "cinq mille six cent quarante"
             ],
             "sentence": "Votre numéro de contrat est le cinq mille six cent quarante.",
-            "audio_ref": "fr/2025-W50/audio/banking_5640_insurance_policy_number_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/banking_5640_insurance_policy_number_fr-FR-HenriNeural.mp3",
             "blueprint_id": "insurance_policy_number",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:46:14.346841Z",
@@ -914,7 +914,7 @@
                 "six mille vingt-et-un"
             ],
             "sentence": "Veuillez noter la référence six mille vingt-et-un.",
-            "audio_ref": "fr/2025-W50/audio/banking_6021_tax_reference_number_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/banking_6021_tax_reference_number_fr-FR-AlainNeural.mp3",
             "blueprint_id": "tax_reference_number",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:46:14.346841Z",
@@ -928,7 +928,7 @@
                 "trois mille cent soixante-douze"
             ],
             "sentence": "Le numéro de votre contrat est le trois mille cent soixante-douze.",
-            "audio_ref": "fr/2025-W50/audio/banking_3172_insurance_policy_number_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/banking_3172_insurance_policy_number_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "insurance_policy_number",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:46:14.346841Z",
@@ -942,7 +942,7 @@
                 "treize"
             ],
             "sentence": "On attend treize millimètres de pluie.",
-            "audio_ref": "fr/2025-W50/audio/weather_13_rainfall_measurement_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/weather_13_rainfall_measurement_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "rainfall_measurement",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:46:14.346841Z",
@@ -956,7 +956,7 @@
                 "quarante-sept"
             ],
             "sentence": "Il est tombé quarante-sept millimètres de pluie.",
-            "audio_ref": "fr/2025-W50/audio/weather_47_rainfall_measurement_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/weather_47_rainfall_measurement_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "rainfall_measurement",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:46:14.346841Z",
@@ -970,7 +970,7 @@
                 "huit cent quatre-vingt-seize"
             ],
             "sentence": "Tu sais si le huit cent quatre-vingt-seize passe par ici ?",
-            "audio_ref": "fr/2025-W50/audio/transport_896_bus_line_number_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/transport_896_bus_line_number_fr-FR-AlainNeural.mp3",
             "blueprint_id": "bus_line_number",
             "version_tag": "2025-W50",
             "created_at": "2025-12-23T21:46:14.346841Z",
@@ -984,7 +984,7 @@
                 "treize"
             ],
             "sentence": "Il fera treize degrés demain.",
-            "audio_ref": "fr/2025-W50/audio/weather_13_temperature_forecast_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/weather_13_temperature_forecast_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "temperature_forecast",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -998,7 +998,7 @@
                 "six"
             ],
             "sentence": "Il a plu six millimètres ce matin.",
-            "audio_ref": "fr/2025-W50/audio/weather_6_rainfall_measurement_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/weather_6_rainfall_measurement_fr-FR-HenriNeural.mp3",
             "blueprint_id": "rainfall_measurement",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1012,7 +1012,7 @@
                 "trente-six"
             ],
             "sentence": "Il est tombé trente-six millimètres de pluie cette nuit.",
-            "audio_ref": "fr/2025-W50/audio/weather_36_rainfall_measurement_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/weather_36_rainfall_measurement_fr-FR-AlainNeural.mp3",
             "blueprint_id": "rainfall_measurement",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1026,7 +1026,7 @@
                 "cinq cent cinquante-quatre"
             ],
             "sentence": "Le train pour Lyon partira voie cinq cent cinquante-quatre.",
-            "audio_ref": "fr/2025-W50/audio/transport_554_train_platform_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/transport_554_train_platform_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "train_platform",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1040,7 +1040,7 @@
                 "sept cent vingt-huit"
             ],
             "sentence": "C'est le bus sept cent vingt-huit, non ?",
-            "audio_ref": "fr/2025-W50/audio/transport_728_bus_line_number_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/transport_728_bus_line_number_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "bus_line_number",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1054,7 +1054,7 @@
                 "quatre cent cinquante-deux"
             ],
             "sentence": "Tu prends le quatre cent cinquante-deux ?",
-            "audio_ref": "fr/2025-W50/audio/transport_452_bus_line_number_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/transport_452_bus_line_number_fr-FR-AlainNeural.mp3",
             "blueprint_id": "bus_line_number",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1068,7 +1068,7 @@
                 "six cent cinquante-cinq"
             ],
             "sentence": "C'est le bus six cent cinquante-cinq, il arrive bientôt.",
-            "audio_ref": "fr/2025-W50/audio/transport_655_bus_line_number_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/transport_655_bus_line_number_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "bus_line_number",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1082,7 +1082,7 @@
                 "six cent vingt-trois"
             ],
             "sentence": "Le train pour Lyon partira quai six cent vingt-trois.",
-            "audio_ref": "fr/2025-W50/audio/transport_623_train_platform_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/transport_623_train_platform_fr-FR-AlainNeural.mp3",
             "blueprint_id": "train_platform",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1096,7 +1096,7 @@
                 "soixante-quinze"
             ],
             "sentence": "Prends-moi soixante-quinze paquets de pâtes, s'il te plaît.",
-            "audio_ref": "fr/2025-W50/audio/quantity_75_grocery_quantity_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/quantity_75_grocery_quantity_fr-FR-HenriNeural.mp3",
             "blueprint_id": "grocery_quantity",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1110,7 +1110,7 @@
                 "quatre-vingt-quatre"
             ],
             "sentence": "Prends quatre-vingt-quatre paquets de lait, s'il te plaît.",
-            "audio_ref": "fr/2025-W50/audio/quantity_84_grocery_quantity_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/quantity_84_grocery_quantity_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "grocery_quantity",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1124,7 +1124,7 @@
                 "seize"
             ],
             "sentence": "Alors, je vous mets seize kilos de tomates, c'est ça ?",
-            "audio_ref": "fr/2025-W50/audio/quantity_16_market_weight_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/quantity_16_market_weight_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "market_weight",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1138,7 +1138,7 @@
                 "trente-deux"
             ],
             "sentence": "Vous avez encore trente-deux kilos de pommes de terre ?",
-            "audio_ref": "fr/2025-W50/audio/quantity_32_market_weight_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/quantity_32_market_weight_fr-FR-HenriNeural.mp3",
             "blueprint_id": "market_weight",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1152,7 +1152,7 @@
                 "quatre-vingt-treize"
             ],
             "sentence": "Pense à prendre quatre-vingt-treize paquets de mouchoirs.",
-            "audio_ref": "fr/2025-W50/audio/quantity_93_grocery_quantity_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/quantity_93_grocery_quantity_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "grocery_quantity",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1167,7 +1167,7 @@
                 "quatre-vingt-onze"
             ],
             "sentence": "Votre commande s'élève donc à quatre mille sept cent trente-neuf euros quatre-vingt-onze.",
-            "audio_ref": "fr/2025-W50/audio/price_4739.91_online_order_total_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_4739.91_online_order_total_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "online_order_total",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1182,7 +1182,7 @@
                 "quatre-vingt-trois"
             ],
             "sentence": "Le billet pour la semaine prochaine coûte deux mille quatorze euros quatre-vingt-trois.",
-            "audio_ref": "fr/2025-W50/audio/price_2014.83_travel_ticket_price_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_2014.83_travel_ticket_price_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "travel_ticket_price",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1197,7 +1197,7 @@
                 "soixante-et-onze"
             ],
             "sentence": "Alors, ça fera quatre mille cent cinquante euros … soixante-et-onze, s'il vous plaît.",
-            "audio_ref": "fr/2025-W50/audio/price_4150.71_supermarket_total_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_4150.71_supermarket_total_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "supermarket_total",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1212,7 +1212,7 @@
                 "trente"
             ],
             "sentence": "Votre total s'élève à quatre mille six cent treize euros … trente.",
-            "audio_ref": "fr/2025-W50/audio/price_4613.30_online_order_total_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_4613.30_online_order_total_fr-FR-HenriNeural.mp3",
             "blueprint_id": "online_order_total",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1227,7 +1227,7 @@
                 "trente-et-un"
             ],
             "sentence": "Le tarif pour une nuit dans la suite présidentielle est de trois mille quarante-deux euros trente-et-un.",
-            "audio_ref": "fr/2025-W50/audio/price_3042.31_hotel_night_rate_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/price_3042.31_hotel_night_rate_fr-FR-AlainNeural.mp3",
             "blueprint_id": "hotel_night_rate",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1242,7 +1242,7 @@
                 "cinquante-trois"
             ],
             "sentence": "On se retrouve bien à dix-sept heures … cinquante-trois pour la réunion ?",
-            "audio_ref": "fr/2025-W50/audio/time_17:53_meeting_time_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/time_17:53_meeting_time_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "meeting_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1257,7 +1257,7 @@
                 "cinquante-deux"
             ],
             "sentence": "Je confirme, la réunion est donc bien prévue pour quinze heures cinquante-deux.",
-            "audio_ref": "fr/2025-W50/audio/time_15:52_meeting_time_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/time_15:52_meeting_time_fr-FR-HenriNeural.mp3",
             "blueprint_id": "meeting_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1272,7 +1272,7 @@
                 "vingt-trois"
             ],
             "sentence": "Le train pour Lyon partira à treize heures vingt-trois.",
-            "audio_ref": "fr/2025-W50/audio/time_13:23_train_departure_time_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/time_13:23_train_departure_time_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "train_departure_time",
             "version_tag": "2025-W50",
             "created_at": "2026-01-12T20:17:48.168863Z",
@@ -1287,7 +1287,7 @@
                 "trente-sept"
             ],
             "sentence": "Mon rendez-vous est à dix-sept heures trente-sept.",
-            "audio_ref": "fr/2025-W50/audio/time_17:37_appointment_time_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/time_17:37_appointment_time_fr-FR-HenriNeural.mp3",
             "blueprint_id": "appointment_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1302,7 +1302,7 @@
                 "quarante-six"
             ],
             "sentence": "Le train pour Lyon partira à douze heures … quarante-six.",
-            "audio_ref": "fr/2025-W50/audio/time_12:46_train_departure_time_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/time_12:46_train_departure_time_fr-FR-AlainNeural.mp3",
             "blueprint_id": "train_departure_time",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1316,7 +1316,7 @@
                 "cent quatre-vingt-sept"
             ],
             "sentence": "C'est au cent quatre-vingt-sept dans la rue.",
-            "audio_ref": "fr/2025-W50/audio/address_187_delivery_address_fr-FR-HenriNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/address_187_delivery_address_fr-FR-HenriNeural.mp3",
             "blueprint_id": "delivery_address",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1330,7 +1330,7 @@
                 "quatre cent deux"
             ],
             "sentence": "C'est bien le quatre cent deux rue de la Paix ?",
-            "audio_ref": "fr/2025-W50/audio/address_402_hotel_address_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/address_402_hotel_address_fr-FR-AlainNeural.mp3",
             "blueprint_id": "hotel_address",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1344,7 +1344,7 @@
                 "trois cent soixante-deux"
             ],
             "sentence": "C'est au numéro trois cent soixante-deux, dans cette rue.",
-            "audio_ref": "fr/2025-W50/audio/address_362_home_address_fr-FR-DeniseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/address_362_home_address_fr-FR-DeniseNeural.mp3",
             "blueprint_id": "home_address",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1358,7 +1358,7 @@
                 "six cent deux"
             ],
             "sentence": "C'est au six cent deux, rue de la République.",
-            "audio_ref": "fr/2025-W50/audio/address_602_home_address_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/address_602_home_address_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "home_address",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1372,7 +1372,7 @@
                 "six cent un"
             ],
             "sentence": "C'est au six cent un de cette rue.",
-            "audio_ref": "fr/2025-W50/audio/address_601_home_address_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/address_601_home_address_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "home_address",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1390,7 +1390,7 @@
                 "quatre-vingt-six"
             ],
             "sentence": "Vous pouvez me rappeler au zéro six soixante-neuf quatre-vingt-trois soixante-huit quatre-vingt-six.",
-            "audio_ref": "fr/2025-W50/audio/phone_0669836886_appointment_confirmation_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0669836886_appointment_confirmation_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "appointment_confirmation",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1408,7 +1408,7 @@
                 "trente-quatre"
             ],
             "sentence": "Vous pouvez me rappeler au zéro six quarante-neuf quarante-six soixante-trois trente-quatre.",
-            "audio_ref": "fr/2025-W50/audio/phone_0649466334_appointment_confirmation_fr-FR-AlainNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0649466334_appointment_confirmation_fr-FR-AlainNeural.mp3",
             "blueprint_id": "appointment_confirmation",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1426,7 +1426,7 @@
                 "quatre-vingt-seize"
             ],
             "sentence": "Vous pouvez me rappeler au zéro six soixante-dix-neuf quatre-vingt quinze quatre-vingt-seize.",
-            "audio_ref": "fr/2025-W50/audio/phone_0679801596_emergency_contact_exchange_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0679801596_emergency_contact_exchange_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "emergency_contact_exchange",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
@@ -1444,7 +1444,7 @@
                 "treize"
             ],
             "sentence": "Vous pouvez me rappeler au zéro six soixante-trois vingt-neuf trente-et-un treize.",
-            "audio_ref": "fr/2025-W50/audio/phone_0663293113_professional_contact_fr-FR-EloiseNeural.mp3",
+            "audio_ref": "number-dication/2025-W50/audio/phone_0663293113_professional_contact_fr-FR-EloiseNeural.mp3",
             "blueprint_id": "professional_contact",
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",

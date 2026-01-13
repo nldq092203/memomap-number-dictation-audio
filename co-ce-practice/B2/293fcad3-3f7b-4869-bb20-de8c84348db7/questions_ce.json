@@ -1,1 +1,157 @@
-{"meta": {"type": "compréhension_écrite", "niveau": "B2", "titre": "Le renouveau de la littérature jeunesse", "consigne": "Lisez le texte et répondez aux questions.", "total_questions": 10}, "questions": [{"id": "CE_01", "type": "single_choice", "question": "Quelle évolution majeure marque la littérature jeunesse actuelle selon l'article ?", "options": ["Un retour aux histoires de magie traditionnelle.", "Le remplacement des vampires par des univers réalistes et sombres.", "L'abandon total des personnages féminins principaux.", "Une préférence pour les histoires d'amour heureuses."], "correct_indices": [1], "explanation": "Le texte indique : 'Place aux univers post-apocalyptiques [...] Les accrocs à la jugulaire [...] ne sont plus à la mode'."}, {"id": "CE_02", "type": "lexical_in_context", "question": "Que signifie l'expression 'fleur bleue' dans la phrase 'les romances fleur bleue ne sont plus à la mode' ?", "options": ["Qui se déroulent dans la nature.", "Qui sont excessivement sentimentales et naïves.", "Qui comportent des éléments de science-fiction."], "correct_indices": [1], "explanation": "L'expression 'fleur bleue' désigne le sentimentalisme et la naïveté, opposés ici à la dureté des nouveaux récits."}, {"id": "CE_03", "type": "single_choice", "question": "Comment le texte définit-il le concept de 'dystopie' ?", "options": ["Un monde où la technologie a résolu tous les problèmes.", "Une société idéale où tout le monde est égal.", "La présentation du pire monde possible.", "Un récit historique basé sur des guerres réelles."], "correct_indices": [2], "explanation": "La définition donnée est : 'Au lieu de proposer un monde parfait, on sert le pire qui soit'."}, {"id": "CE_04", "type": "multiple_choice", "question": "Quelle est la situation familiale de Katniss au début de l'histoire ? (2 réponses)", "options": ["Elle est orpheline de père.", "Sa mère est gravement malade physiquement.", "Sa mère souffre de dépression.", "Elle n'a ni frère ni sœur."], "correct_indices": [0, 2], "explanation": "Le texte précise : 'Son père est mort à la mine [...] sa mère est tombée en dépression'."}, {"id": "CE_05", "type": "lexical_in_context", "question": "Dans la phrase 'entrer dans l’arène où les jeux sont funestes', que signifie 'funestes' ?", "options": ["Qui apportent la gloire et la richesse.", "Qui sont ennuyeux et longs.", "Qui causent la mort ou le malheur."], "correct_indices": [2], "explanation": "Funeste signifie qui porte la mort. Le contexte 'tuer ou être tué' confirme ce sens."}, {"id": "CE_06", "type": "inference", "question": "Quel lien l'auteur établit-il avec des écrivains comme Orwell ou Huxley ?", "options": ["Ils sont considérés comme démodés par les jeunes.", "Les auteurs modernes s'inspirent de leurs thèmes d'anticipation.", "Ils ont écrit spécifiquement pour la jeunesse."], "correct_indices": [1], "explanation": "L'auteur note une filiation : 'Ces périls [...] rappellent certaines grandes œuvres d’anticipation. On pense à George Orwell...'."}, {"id": "CE_07", "type": "true_false_not_given", "question": "Les romans dystopiques évitent d'aborder des sujets tabous.", "options": ["Vrai", "Faux", "Cela n'est pas dit"], "correct_indices": [1], "explanation": "Faux. Le texte affirme le contraire : 'La littérature jeunesse a levé ses derniers tabous'."}, {"id": "CE_08", "type": "multiple_choice", "question": "Quelles peurs contemporaines sont reflétées dans ces livres ? (2 réponses)", "options": ["La peur de l'échec scolaire.", "Les dérives génétiques.", "L'instabilité politique mondiale.", "Les bouleversements climatiques."], "correct_indices": [1, 3], "explanation": "Le texte cite : 'terrorisme, épidémies, bouleversements climatiques, dérives génétiques...'."}, {"id": "CE_09", "type": "single_choice", "question": "Quel rôle les adolescents trouvent-ils finalement dans ces récits ?", "options": ["Un rôle de victime passive.", "Un rôle valorisant de sauveur.", "Un rôle de spectateur impuissant."], "correct_indices": [1], "explanation": "Le texte mentionne : 'les adolescents y trouvent finalement un rôle valorisant'."}, {"id": "CE_10", "type": "author_intention", "question": "Quelle est la conclusion de l'auteur sur l'impact de ces lectures ?", "options": ["Elles rendent les jeunes plus pessimistes.", "Elles sont un outil pour construire un avenir positif.", "Elles ne sont qu'un divertissement commercial."], "correct_indices": [1], "explanation": "La phrase finale est claire : 'une manière de dépasser ses peurs et d’aller vers la construction d’un monde plus positif'."}]}
+{
+    "meta": {
+        "type": "compréhension_écrite",
+        "niveau": "B2",
+        "titre": "Le renouveau de la littérature jeunesse",
+        "consigne": "Lisez le texte et répondez aux questions.",
+        "total_questions": 10
+    },
+    "questions": [
+        {
+            "id": "CE_01",
+            "type": "single_choice",
+            "question": "Quelle évolution majeure marque la littérature jeunesse actuelle selon l'article ?",
+            "options": [
+                "Un retour aux histoires de magie traditionnelle.",
+                "Le remplacement des vampires par des univers réalistes et sombres.",
+                "L'abandon total des personnages féminins principaux.",
+                "Une préférence pour les histoires d'amour heureuses."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Le texte indique : 'Place aux univers post-apocalyptiques [...] Les accrocs à la jugulaire [...] ne sont plus à la mode'."
+        },
+        {
+            "id": "CE_02",
+            "type": "lexical_in_context",
+            "question": "Que signifie l'expression 'fleur bleue' dans la phrase 'les romances fleur bleue ne sont plus à la mode' ?",
+            "options": [
+                "Qui se déroulent dans la nature.",
+                "Qui sont excessivement sentimentales et naïves.",
+                "Qui comportent des éléments de science-fiction."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "L'expression 'fleur bleue' désigne le sentimentalisme et la naïveté, opposés ici à la dureté des nouveaux récits."
+        },
+        {
+            "id": "CE_03",
+            "type": "single_choice",
+            "question": "Comment le texte définit-il le concept de 'dystopie' ?",
+            "options": [
+                "Un monde où la technologie a résolu tous les problèmes.",
+                "Une société idéale où tout le monde est égal.",
+                "La présentation du pire monde possible.",
+                "Un récit historique basé sur des guerres réelles."
+            ],
+            "correct_indices": [
+                2
+            ],
+            "explanation": "La définition donnée est : 'Au lieu de proposer un monde parfait, on sert le pire qui soit'."
+        },
+        {
+            "id": "CE_04",
+            "type": "multiple_choice",
+            "question": "Quelle est la situation familiale de Katniss au début de l'histoire ? (2 réponses)",
+            "options": [
+                "Elle est orpheline de père.",
+                "Sa mère est gravement malade physiquement.",
+                "Sa mère souffre de dépression.",
+                "Elle n'a ni frère ni sœur."
+            ],
+            "correct_indices": [
+                0,
+                2
+            ],
+            "explanation": "Le texte précise : 'Son père est mort à la mine [...] sa mère est tombée en dépression'."
+        },
+        {
+            "id": "CE_05",
+            "type": "lexical_in_context",
+            "question": "Dans la phrase 'entrer dans l’arène où les jeux sont funestes', que signifie 'funestes' ?",
+            "options": [
+                "Qui apportent la gloire et la richesse.",
+                "Qui sont ennuyeux et longs.",
+                "Qui causent la mort ou le malheur."
+            ],
+            "correct_indices": [
+                2
+            ],
+            "explanation": "Funeste signifie qui porte la mort. Le contexte 'tuer ou être tué' confirme ce sens."
+        },
+        {
+            "id": "CE_06",
+            "type": "inference",
+            "question": "Quel lien l'auteur établit-il avec des écrivains comme Orwell ou Huxley ?",
+            "options": [
+                "Ils sont considérés comme démodés par les jeunes.",
+                "Les auteurs modernes s'inspirent de leurs thèmes d'anticipation.",
+                "Ils ont écrit spécifiquement pour la jeunesse."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "L'auteur note une filiation : 'Ces périls [...] rappellent certaines grandes œuvres d’anticipation. On pense à George Orwell...'."
+        },
+        {
+            "id": "CE_07",
+            "type": "true_false_not_given",
+            "question": "Les romans dystopiques évitent d'aborder des sujets tabous.",
+            "options": [
+                "Vrai",
+                "Faux",
+                "Cela n'est pas dit"
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Faux. Le texte affirme le contraire : 'La littérature jeunesse a levé ses derniers tabous'."
+        },
+        {
+            "id": "CE_08",
+            "type": "multiple_choice",
+            "question": "Quelles peurs contemporaines sont reflétées dans ces livres ? (2 réponses)",
+            "options": [
+                "La peur de l'échec scolaire.",
+                "Les dérives génétiques.",
+                "L'instabilité politique mondiale.",
+                "Les bouleversements climatiques."
+            ],
+            "correct_indices": [
+                1,
+                3
+            ],
+            "explanation": "Le texte cite : 'terrorisme, épidémies, bouleversements climatiques, dérives génétiques...'."
+        },
+        {
+            "id": "CE_09",
+            "type": "single_choice",
+            "question": "Quel rôle les adolescents trouvent-ils finalement dans ces récits ?",
+            "options": [
+                "Un rôle de victime passive.",
+                "Un rôle valorisant de sauveur.",
+                "Un rôle de spectateur impuissant."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "Le texte mentionne : 'les adolescents y trouvent finalement un rôle valorisant'."
+        },
+        {
+            "id": "CE_10",
+            "type": "author_intention",
+            "question": "Quelle est la conclusion de l'auteur sur l'impact de ces lectures ?",
+            "options": [
+                "Elles rendent les jeunes plus pessimistes.",
+                "Elles sont un outil pour construire un avenir positif.",
+                "Elles ne sont qu'un divertissement commercial."
+            ],
+            "correct_indices": [
+                1
+            ],
+            "explanation": "La phrase finale est claire : 'une manière de dépasser ses peurs et d’aller vers la construction d’un monde plus positif'."
+        }
+    ]
+}
