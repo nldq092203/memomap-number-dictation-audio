@@ -1,0 +1,36 @@
+{
+    "id": "alimentation_modes_consommation",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "L’alimentation",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler des habitudes alimentaires et des modes de consommation.",
+            "audio": "speaking-practice/alimentation/modes_consommation/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Avez-vous remarqué des changements dans les habitudes alimentaires ces dernières années ?",
+            "s": 45,
+            "audio": "speaking-practice/alimentation/modes_consommation/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quels sont les avantages des nouveaux modes d’alimentation, comme le bio ou le végétarisme ?",
+            "s": 60,
+            "audio": "speaking-practice/alimentation/modes_consommation/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Ces nouvelles pratiques présentent-elles aussi des limites ou des contraintes ?",
+            "s": 90,
+            "audio": "speaking-practice/alimentation/modes_consommation/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Ces dernières années, on observe effectivement une évolution des habitudes alimentaires, avec un intérêt croissant pour le bio, le végétarisme ou les produits locaux. Ces modes d’alimentation présentent des avantages, notamment pour l’environnement et parfois pour la santé, car ils encouragent une consommation plus réfléchie. Cependant, ils peuvent aussi avoir des limites, par exemple en termes de prix, de disponibilité ou d’équilibre nutritionnel s’ils sont mal suivis. Donc, même si ces pratiques sont intéressantes, elles demandent une bonne information et une adaptation aux besoins de chacun.",
+            "audio": "speaking-practice/alimentation/modes_consommation/audio/model_answer.mp3"
+        }
+    ]
+}

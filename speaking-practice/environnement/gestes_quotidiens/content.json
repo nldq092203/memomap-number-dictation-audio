@@ -1,0 +1,36 @@
+{
+    "id": "environnement_gestes_quotidiens",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Protéger l’environnement",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler des gestes écologiques au quotidien.",
+            "audio": "speaking-practice/environnement/gestes_quotidiens/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Essayez-vous de faire attention à l’environnement dans votre vie quotidienne ?",
+            "s": 45,
+            "audio": "speaking-practice/environnement/gestes_quotidiens/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quels gestes simples peuvent vraiment aider à protéger l’environnement ?",
+            "s": 60,
+            "audio": "speaking-practice/environnement/gestes_quotidiens/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Selon vous, ces actions individuelles sont-elles suffisantes ?",
+            "s": 90,
+            "audio": "speaking-practice/environnement/gestes_quotidiens/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Personnellement, j’essaie de faire attention à l’environnement dans ma vie de tous les jours, par exemple en réduisant mes déchets ou en faisant plus souvent attention à ma consommation d’énergie. Je pense que des gestes simples, comme trier les déchets, limiter le plastique ou utiliser les transports en commun, peuvent réellement avoir un impact. Cela dit, il faut reconnaître que les efforts individuels ont leurs limites, car les problèmes environnementaux sont très larges. Donc, à mon avis, ces gestes sont importants, mais ils doivent être accompagnés de décisions plus fortes au niveau des entreprises et des gouvernements.",
+            "audio": "speaking-practice/environnement/gestes_quotidiens/audio/model_answer.mp3"
+        }
+    ]
+}

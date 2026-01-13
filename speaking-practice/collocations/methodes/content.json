@@ -1,0 +1,36 @@
+{
+    "id": "collocations_methodes",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Les collocations",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons réfléchir aux collocations et à la manière de les apprendre.",
+            "audio": "speaking-practice/collocations/methodes/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Avez-vous déjà eu des difficultés à choisir le bon mot dans une expression ?",
+            "s": 45,
+            "audio": "speaking-practice/collocations/methodes/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quelles méthodes peuvent aider à mieux apprendre et retenir les collocations ?",
+            "s": 60,
+            "audio": "speaking-practice/collocations/methodes/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Pensez-vous que l’on peut parler correctement sans bien maîtriser les collocations ?",
+            "s": 90,
+            "audio": "speaking-practice/collocations/methodes/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "On peut remarquer que beaucoup d’apprenants connaissent le vocabulaire, mais hésitent au moment de l’utiliser correctement dans une phrase. Les collocations sont donc très utiles, car elles aident à choisir les mots qui vont naturellement ensemble. Pour les apprendre, il est souvent efficace de les mémoriser dans un contexte, par exemple à travers des phrases ou des textes, plutôt que de simples listes. Cela dit, on peut communiquer sans les maîtriser parfaitement, mais le discours paraît souvent moins naturel. Ainsi, apprendre les collocations permet vraiment de passer à un niveau plus avancé à l’oral.",
+            "audio": "speaking-practice/collocations/methodes/audio/model_answer.mp3"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "collocations_apprentissage",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Les collocations",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler des collocations en langue étrangère.",
+            "audio": "speaking-practice/collocations/apprentissage/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Avez-vous déjà entendu parler des collocations ou remarqué certaines expressions qui vont souvent ensemble ?",
+            "s": 45,
+            "audio": "speaking-practice/collocations/apprentissage/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Selon vous, pourquoi les collocations sont-elles importantes pour parler une langue de manière naturelle ?",
+            "s": 60,
+            "audio": "speaking-practice/collocations/apprentissage/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Apprendre les collocations vous semble-t-il plus difficile que d’apprendre du vocabulaire isolé ?",
+            "s": 90,
+            "audio": "speaking-practice/collocations/apprentissage/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Quand on apprend une langue étrangère, on se rend assez vite compte que certains mots vont naturellement ensemble, et c’est justement ce qu’on appelle les collocations. Elles sont importantes parce qu’elles permettent de parler de façon plus fluide et plus naturelle, sans avoir à réfléchir à chaque mot. Cela dit, les apprendre peut être plus difficile que le vocabulaire isolé, car il faut mémoriser des groupes de mots et non un seul terme. Donc, à mon avis, travailler les collocations demande un peu plus d’effort, mais c’est très utile pour améliorer son expression orale.",
+            "audio": "speaking-practice/collocations/apprentissage/audio/model_answer.mp3"
+        }
+    ]
+}

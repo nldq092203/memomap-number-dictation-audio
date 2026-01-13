@@ -1,0 +1,17 @@
+{
+    "topic": "technologie",
+    "title": "La technologie",
+    "level": "B2",
+    "subtopics": [
+        {
+            "id": "cloud_computing_usage",
+            "title": "Cloud computing",
+            "contentPath": "speaking-practice/technologie/cloud_computing_usage/content.json"
+        },
+        {
+            "id": "publicite_web_usage",
+            "title": "Publicité sur le web",
+            "contentPath": "speaking-practice/technologie/publicite_web_usage/content.json"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "uniforme_travail",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "L’uniforme",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler du port de l’uniforme dans le monde du travail.",
+            "audio": "speaking-practice/uniforme/travail/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Avez-vous déjà travaillé dans un emploi où le port de l’uniforme était obligatoire ?",
+            "s": 45,
+            "audio": "speaking-practice/uniforme/travail/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Selon vous, pourquoi certaines professions imposent-elles un uniforme ?",
+            "s": 60,
+            "audio": "speaking-practice/uniforme/travail/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Le port de l’uniforme est-il toujours bien accepté par les employés ?",
+            "s": 90,
+            "audio": "speaking-practice/uniforme/travail/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Dans le monde du travail, l’uniforme est souvent utilisé pour des raisons pratiques ou professionnelles, par exemple pour être facilement identifiable ou pour respecter des règles de sécurité. On peut aussi dire qu’il permet de donner une image plus sérieuse et plus cohérente de l’entreprise. Cela dit, le port de l’uniforme n’est pas toujours bien accepté, car certains employés peuvent le trouver inconfortable ou trop contraignant. Donc, même s’il peut être utile dans certains métiers, son efficacité dépend surtout de la manière dont il est conçu et expliqué aux salariés.",
+            "audio": "speaking-practice/uniforme/travail/audio/model_answer.mp3"
+        }
+    ]
+}

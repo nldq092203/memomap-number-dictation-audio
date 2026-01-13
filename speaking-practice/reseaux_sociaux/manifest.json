@@ -1,0 +1,22 @@
+{
+    "topic": "reseaux_sociaux",
+    "title": "Les réseaux sociaux",
+    "level": "B2",
+    "subtopics": [
+        {
+            "id": "classic",
+            "title": "Réseaux sociaux - Vue générale",
+            "contentPath": "speaking-practice/reseaux_sociaux/classic/content.json"
+        },
+        {
+            "id": "jeunes",
+            "title": "Réseaux sociaux et jeunes",
+            "contentPath": "speaking-practice/reseaux_sociaux/jeunes/content.json"
+        },
+        {
+            "id": "vie_privee",
+            "title": "Réseaux sociaux et vie privée",
+            "contentPath": "speaking-practice/reseaux_sociaux/vie_privee/content.json"
+        }
+    ]
+}

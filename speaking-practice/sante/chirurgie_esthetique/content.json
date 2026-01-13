@@ -1,0 +1,36 @@
+{
+    "id": "chirurgie_esthetique",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "La chirurgie esthétique",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler de la chirurgie esthétique.",
+            "audio": "speaking-practice/sante/chirurgie_esthetique/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Selon vous, la chirurgie esthétique est-elle de plus en plus courante aujourd’hui ?",
+            "s": 45,
+            "audio": "speaking-practice/sante/chirurgie_esthetique/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quels peuvent être les avantages de la chirurgie esthétique pour les personnes qui y ont recours ?",
+            "s": 60,
+            "audio": "speaking-practice/sante/chirurgie_esthetique/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Cette pratique présente-t-elle aussi des risques ou des dérives possibles ?",
+            "s": 90,
+            "audio": "speaking-practice/sante/chirurgie_esthetique/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Aujourd’hui, la chirurgie esthétique semble effectivement de plus en plus répandue, notamment à cause de l’influence des réseaux sociaux et de certains standards de beauté. Pour certaines personnes, elle peut avoir des avantages, par exemple en améliorant l’estime de soi ou en aidant à mieux accepter son apparence après un complexe ou un accident. Cependant, cette pratique comporte aussi des risques, à la fois médicaux et psychologiques, surtout lorsqu’elle est motivée par une pression sociale excessive. Ainsi, même si la chirurgie esthétique peut être bénéfique dans certains cas, elle devrait être envisagée avec prudence et accompagnée d’une réflexion personnelle approfondie.",
+            "audio": "speaking-practice/sante/chirurgie_esthetique/audio/model_answer.mp3"
+        }
+    ]
+}

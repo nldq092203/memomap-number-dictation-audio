@@ -1,0 +1,36 @@
+{
+    "id": "environnement_responsabilite_collective",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Protéger l’environnement",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons réfléchir au rôle des entreprises et des États dans la protection de l’environnement.",
+            "audio": "speaking-practice/environnement/responsabilite_collective/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Selon vous, qui est le plus responsable de la protection de l’environnement ?",
+            "s": 45,
+            "audio": "speaking-practice/environnement/responsabilite_collective/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quel rôle les entreprises et les gouvernements devraient-ils jouer ?",
+            "s": 60,
+            "audio": "speaking-practice/environnement/responsabilite_collective/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Quelles difficultés peuvent freiner ces actions à grande échelle ?",
+            "s": 90,
+            "audio": "speaking-practice/environnement/responsabilite_collective/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "À mon avis, la protection de l’environnement ne peut pas reposer uniquement sur les citoyens. Je pense que les entreprises et les États ont un rôle essentiel, notamment pour réduire les émissions polluantes et investir dans des solutions plus durables. Cependant, ces actions peuvent être freinées par des contraintes économiques ou politiques, comme le coût des transitions ou les intérêts à court terme. Donc, selon moi, il faut une collaboration entre les citoyens, les entreprises et les pouvoirs publics pour obtenir des résultats concrets.",
+            "audio": "speaking-practice/environnement/responsabilite_collective/audio/model_answer.mp3"
+        }
+    ]
+}

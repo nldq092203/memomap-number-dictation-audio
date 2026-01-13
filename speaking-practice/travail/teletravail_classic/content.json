@@ -1,0 +1,36 @@
+{
+    "id": "teletravail_classic",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Télétravail",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler du télétravail.",
+            "audio": "speaking-practice/travail/teletravail_classic/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Avez-vous déjà travaillé à distance ?",
+            "s": 45,
+            "audio": "speaking-practice/travail/teletravail_classic/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quels sont, selon vous, les principaux avantages du télétravail ?",
+            "s": 60,
+            "audio": "speaking-practice/travail/teletravail_classic/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Le télétravail peut-il aussi avoir des effets négatifs sur les relations humaines ?",
+            "s": 90,
+            "audio": "speaking-practice/travail/teletravail_classic/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Personnellement, j’ai déjà travaillé à distance et, dans l’ensemble, j’ai trouvé l’expérience plutôt positive. Le principal avantage, selon moi, c’est le gain de temps, surtout parce qu’on évite les transports et qu’on peut mieux organiser sa journée, ce qui permet souvent d’être plus concentré. Mais il y a aussi des inconvénients, car on peut se sentir un peu isolé et avoir moins d’échanges avec les collègues. Donc, à mon avis, le télétravail fonctionne bien quand il est partiel et qu’il reste des moments de travail en équipe.",
+            "audio": "speaking-practice/travail/teletravail_classic/audio/model_answer.mp3"
+        }
+    ]
+}

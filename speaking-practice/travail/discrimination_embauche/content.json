@@ -1,0 +1,36 @@
+{
+    "id": "discrimination_embauche",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "La discrimination à l’embauche",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler de la discrimination à l’embauche.",
+            "audio": "speaking-practice/travail/discrimination_embauche/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Pensez-vous que la discrimination à l’embauche existe encore aujourd’hui ?",
+            "s": 45,
+            "audio": "speaking-practice/travail/discrimination_embauche/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quelles peuvent être les conséquences de la discrimination à l’embauche pour les personnes concernées et pour la société ?",
+            "s": 60,
+            "audio": "speaking-practice/travail/discrimination_embauche/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Selon vous, que peut-on faire pour lutter contre la discrimination à l’embauche ?",
+            "s": 90,
+            "audio": "speaking-practice/travail/discrimination_embauche/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Aujourd’hui, beaucoup de personnes pensent que la discrimination à l’embauche existe encore, même si elle est parfois difficile à prouver. Elle peut concerner l’âge, l’origine, le genre ou encore l’apparence, et elle a souvent des conséquences importantes, comme la perte de confiance en soi ou des difficultés d’insertion professionnelle. À l’échelle de la société, cela peut aussi créer des inégalités durables et un sentiment d’injustice. Cela dit, des solutions existent, par exemple en renforçant les lois, en sensibilisant les recruteurs et en mettant en place des procédures de recrutement plus transparentes. Ainsi, lutter contre la discrimination à l’embauche demande des efforts à la fois individuels et collectifs.",
+            "audio": "speaking-practice/travail/discrimination_embauche/audio/model_answer.mp3"
+        }
+    ]
+}

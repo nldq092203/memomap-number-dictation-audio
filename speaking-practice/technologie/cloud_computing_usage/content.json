@@ -1,0 +1,36 @@
+{
+    "id": "cloud_computing_usage",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Le cloud computing",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler du cloud computing.",
+            "audio": "speaking-practice/technologie/cloud_computing_usage/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Utilisez-vous le cloud computing dans votre vie quotidienne ou professionnelle ?",
+            "s": 45,
+            "audio": "speaking-practice/technologie/cloud_computing_usage/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quels sont, selon vous, les principaux avantages du cloud computing ?",
+            "s": 60,
+            "audio": "speaking-practice/technologie/cloud_computing_usage/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Le cloud computing peut-il aussi poser des problèmes ou des limites ?",
+            "s": 90,
+            "audio": "speaking-practice/technologie/cloud_computing_usage/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Personnellement, j’utilise le cloud computing assez régulièrement, surtout pour stocker des fichiers et travailler sur des documents en ligne. Je pense que son principal avantage, c’est la facilité d’accès aux données, puisqu’on peut les consulter depuis n’importe quel appareil et les partager rapidement avec d’autres personnes. Cela dit, il existe aussi certaines limites, notamment en ce qui concerne la sécurité des données et la dépendance à une connexion internet. Donc, à mon avis, le cloud computing est très pratique, mais il faut l’utiliser de manière réfléchie et rester attentif à la protection de ses informations.",
+            "audio": "speaking-practice/technologie/cloud_computing_usage/audio/model_answer.mp3"
+        }
+    ]
+}

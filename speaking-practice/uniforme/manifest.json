@@ -1,0 +1,17 @@
+{
+    "topic": "uniforme",
+    "title": "L'uniforme",
+    "level": "B2",
+    "subtopics": [
+        {
+            "id": "ecole",
+            "title": "Uniforme à l'école",
+            "contentPath": "speaking-practice/uniforme/ecole/content.json"
+        },
+        {
+            "id": "travail",
+            "title": "Uniforme au travail",
+            "contentPath": "speaking-practice/uniforme/travail/content.json"
+        }
+    ]
+}

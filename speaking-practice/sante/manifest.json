@@ -1,0 +1,22 @@
+{
+    "topic": "sante",
+    "title": "La santé",
+    "level": "B2",
+    "subtopics": [
+        {
+            "id": "allopathie_vs_homeopathie",
+            "title": "Allopathie vs Homéopathie",
+            "contentPath": "speaking-practice/sante/allopathie_vs_homeopathie/content.json"
+        },
+        {
+            "id": "chirurgie_esthetique",
+            "title": "Chirurgie esthétique",
+            "contentPath": "speaking-practice/sante/chirurgie_esthetique/content.json"
+        },
+        {
+            "id": "ondes_electromagnetiques_risques_sanitaires",
+            "title": "Ondes électromagnétiques et risques sanitaires",
+            "contentPath": "speaking-practice/sante/ondes_electromagnetiques_risques_sanitaires/content.json"
+        }
+    ]
+}

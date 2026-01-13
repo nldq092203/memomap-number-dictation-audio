@@ -1,0 +1,36 @@
+{
+    "id": "reseaux_sociaux_classic",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Les réseaux sociaux",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler des réseaux sociaux.",
+            "audio": "speaking-practice/reseaux_sociaux/classic/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Utilisez-vous régulièrement les réseaux sociaux ?",
+            "s": 45,
+            "audio": "speaking-practice/reseaux_sociaux/classic/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quels sont, selon vous, les principaux avantages des réseaux sociaux ?",
+            "s": 60,
+            "audio": "speaking-practice/reseaux_sociaux/classic/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Peuvent-ils aussi avoir des effets négatifs sur les relations humaines ?",
+            "s": 90,
+            "audio": "speaking-practice/reseaux_sociaux/classic/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Personnellement, j’utilise assez régulièrement les réseaux sociaux, surtout pour rester en contact avec mes amis et suivre l’actualité. Je pense que leur principal avantage, c’est la facilité de communication, parce qu’on peut échanger rapidement avec des personnes qui vivent loin et partager des informations presque en temps réel. Cela dit, il ne faut pas ignorer les aspects négatifs, car les réseaux sociaux peuvent parfois remplacer les échanges en face à face et créer une forme de dépendance. Donc, à mon avis, ils sont utiles à condition de les utiliser avec modération et de garder un bon équilibre avec la vie réelle.",
+            "audio": "speaking-practice/reseaux_sociaux/classic/audio/model_answer.mp3"
+        }
+    ]
+}

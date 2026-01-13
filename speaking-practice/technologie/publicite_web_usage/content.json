@@ -1,0 +1,36 @@
+{
+    "id": "publicite_web_usage",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "La publicité sur le web",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler de la publicité sur le web.",
+            "audio": "speaking-practice/technologie/publicite_web_usage/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Êtes-vous souvent exposé à la publicité sur internet ?",
+            "s": 45,
+            "audio": "speaking-practice/technologie/publicite_web_usage/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quels sont, selon vous, les avantages de la publicité sur le web ?",
+            "s": 60,
+            "audio": "speaking-practice/technologie/publicite_web_usage/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "La publicité en ligne peut-elle aussi poser des problèmes ou des limites ?",
+            "s": 90,
+            "audio": "speaking-practice/technologie/publicite_web_usage/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Personnellement, je suis très souvent exposé à la publicité sur internet, que ce soit sur les réseaux sociaux ou sur des sites web. Je pense que l’avantage principal de la publicité en ligne, c’est qu’elle peut être plus ciblée et parfois plus utile, notamment quand elle correspond à nos centres d’intérêt. Cela dit, il y a aussi des aspects négatifs, comme l’impression d’être constamment suivi ou le fait que certaines publicités soient trop envahissantes. Donc, à mon avis, la publicité sur le web peut être efficace, mais elle devrait être mieux encadrée pour respecter davantage les utilisateurs.",
+            "audio": "speaking-practice/technologie/publicite_web_usage/audio/model_answer.mp3"
+        }
+    ]
+}

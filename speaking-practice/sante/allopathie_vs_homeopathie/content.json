@@ -1,0 +1,36 @@
+{
+    "id": "allopathie_vs_homeopathie",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Allopathie et homéopathie",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler de l’allopathie et de l’homéopathie.",
+            "audio": "speaking-practice/sante/allopathie_vs_homeopathie/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Connaissez-vous la différence entre l’allopathie et l’homéopathie, ou avez-vous déjà utilisé l’un de ces deux types de traitement ?",
+            "s": 45,
+            "audio": "speaking-practice/sante/allopathie_vs_homeopathie/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quels peuvent être les avantages de l’allopathie et de l’homéopathie selon vous ?",
+            "s": 60,
+            "audio": "speaking-practice/sante/allopathie_vs_homeopathie/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Ces deux approches présentent-elles aussi des limites ou des points de controverse ?",
+            "s": 90,
+            "audio": "speaking-practice/sante/allopathie_vs_homeopathie/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "De nos jours, on distingue généralement l’allopathie, qui repose sur la médecine classique et des traitements validés scientifiquement, et l’homéopathie, qui est perçue par certains comme une médecine plus douce. L’allopathie présente l’avantage d’être efficace pour traiter des maladies graves ou urgentes, grâce à des médicaments dont l’efficacité est prouvée. De son côté, l’homéopathie est souvent appréciée parce qu’elle est mieux tolérée et qu’elle donne aux patients le sentiment d’être écoutés. Cela dit, elle fait l’objet de nombreuses critiques, notamment concernant l’absence de preuves scientifiques solides. Ainsi, beaucoup de personnes considèrent que l’allopathie reste indispensable, tandis que l’homéopathie peut éventuellement être utilisée en complément, mais avec prudence.",
+            "audio": "speaking-practice/sante/allopathie_vs_homeopathie/audio/model_answer.mp3"
+        }
+    ]
+}

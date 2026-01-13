@@ -1,0 +1,36 @@
+{
+    "id": "reseaux_sociaux_vie_privee",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Les réseaux sociaux",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler des réseaux sociaux et de la protection de la vie privée.",
+            "audio": "speaking-practice/reseaux_sociaux/vie_privee/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Faites-vous attention aux informations personnelles que vous partagez en ligne ?",
+            "s": 45,
+            "audio": "speaking-practice/reseaux_sociaux/vie_privee/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Pourquoi la protection de la vie privée est-elle importante sur les réseaux sociaux ?",
+            "s": 60,
+            "audio": "speaking-practice/reseaux_sociaux/vie_privee/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Est-il vraiment possible de protéger totalement sa vie privée sur ces plateformes ?",
+            "s": 90,
+            "audio": "speaking-practice/reseaux_sociaux/vie_privee/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Personnellement, j’essaie de faire attention aux informations que je partage sur les réseaux sociaux, même si ce n’est pas toujours simple. Je pense que la protection de la vie privée est importante, parce que les données peuvent rester longtemps en ligne et être utilisées sans qu’on s’en rende compte. Cela dit, il est difficile de tout contrôler, surtout avec des paramètres parfois complexes et des plateformes qui évoluent rapidement. Donc, à mon avis, il faut rester vigilant et informé, sans pour autant arrêter complètement d’utiliser les réseaux sociaux.",
+            "audio": "speaking-practice/reseaux_sociaux/vie_privee/audio/model_answer.mp3"
+        }
+    ]
+}

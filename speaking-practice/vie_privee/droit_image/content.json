@@ -1,0 +1,36 @@
+{
+    "id": "vie_privee_droit_image",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Respecter la vie privée et le droit à l’image",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler du respect de la vie privée et du droit à l’image.",
+            "audio": "speaking-practice/vie_privee/droit_image/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Faites-vous attention à la manière dont vous partagez des photos ou des informations personnelles en ligne ?",
+            "s": 45,
+            "audio": "speaking-practice/vie_privee/droit_image/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Pourquoi est-il important de respecter la vie privée et le droit à l’image des autres ?",
+            "s": 60,
+            "audio": "speaking-practice/vie_privee/droit_image/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Pensez-vous que ces règles sont suffisamment respectées sur internet aujourd’hui ?",
+            "s": 90,
+            "audio": "speaking-practice/vie_privee/droit_image/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Personnellement, j’essaie de faire attention avant de partager des photos ou des informations en ligne, surtout quand d’autres personnes sont concernées. Je pense qu’il est très important de respecter la vie privée et le droit à l’image, parce que une image ou une information peut circuler très rapidement et avoir des conséquences sur la vie personnelle ou professionnelle. Cela dit, j’ai l’impression que ces règles ne sont pas toujours bien respectées sur internet, souvent par manque d’information ou de vigilance. Donc, à mon avis, il faudrait davantage sensibiliser les utilisateurs et rappeler que le respect de la vie privée concerne tout le monde.",
+            "audio": "speaking-practice/vie_privee/droit_image/audio/model_answer.mp3"
+        }
+    ]
+}

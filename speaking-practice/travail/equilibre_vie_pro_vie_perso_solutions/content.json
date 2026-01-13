@@ -1,0 +1,36 @@
+{
+    "id": "equilibre_vie_pro_vie_perso_solutions",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Équilibre vie professionnelle et vie personnelle",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons réfléchir aux solutions pour mieux équilibrer vie professionnelle et vie personnelle.",
+            "audio": "speaking-practice/travail/equilibre_vie_pro_vie_perso_solutions/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Avez-vous déjà mis en place des habitudes pour mieux gérer votre temps ?",
+            "s": 45,
+            "audio": "speaking-practice/travail/equilibre_vie_pro_vie_perso_solutions/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quelles solutions peuvent aider à mieux équilibrer travail et vie personnelle ?",
+            "s": 60,
+            "audio": "speaking-practice/travail/equilibre_vie_pro_vie_perso_solutions/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Ces solutions sont-elles toujours faciles à appliquer en pratique ?",
+            "s": 90,
+            "audio": "speaking-practice/travail/equilibre_vie_pro_vie_perso_solutions/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Personnellement, j’essaie de mieux organiser mon temps, par exemple en fixant des horaires clairs et en évitant de travailler le soir quand c’est possible. Je pense que des solutions comme le télétravail partiel, la flexibilité des horaires ou le droit à la déconnexion peuvent vraiment aider. Cependant, ces solutions ne sont pas toujours faciles à appliquer, notamment à cause de la pression professionnelle ou du manque de moyens. Donc, à mon avis, il faut à la fois des efforts individuels et un soutien réel de la part des employeurs.",
+            "audio": "speaking-practice/travail/equilibre_vie_pro_vie_perso_solutions/audio/model_answer.mp3"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "ondes_electromagnetiques_risques_sanitaires",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Les risques sanitaires liés aux ondes électromagnétiques",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler des risques sanitaires liés aux ondes électromagnétiques.",
+            "audio": "speaking-practice/sante/ondes_electromagnetiques_risques_sanitaires/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Êtes-vous souvent exposé aux ondes électromagnétiques dans votre vie quotidienne, par exemple avec le téléphone portable ou le Wi-Fi ?",
+            "s": 45,
+            "audio": "speaking-practice/sante/ondes_electromagnetiques_risques_sanitaires/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Ces ondes vous inquiètent-elles du point de vue de la santé ?",
+            "s": 60,
+            "audio": "speaking-practice/sante/ondes_electromagnetiques_risques_sanitaires/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Pensez-vous que les risques sont clairement établis ou qu’il existe encore des incertitudes ?",
+            "s": 90,
+            "audio": "speaking-practice/sante/ondes_electromagnetiques_risques_sanitaires/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Aujourd’hui, la plupart des gens sont exposés aux ondes électromagnétiques presque en permanence, notamment à travers le téléphone portable, le Wi-Fi ou les objets connectés. Cette situation peut susciter des inquiétudes, car on entend régulièrement parler de possibles effets sur la santé, surtout à long terme. Cependant, d’après les connaissances actuelles, les études scientifiques ne montrent pas de risques clairement établis pour une utilisation normale, même s’il existe encore certaines incertitudes. C’est pour cette raison que beaucoup de spécialistes recommandent une attitude prudente, en limitant l’exposition quand c’est possible. Ainsi, il semble raisonnable de continuer à utiliser ces technologies, tout en restant informé et attentif aux recommandations sanitaires.",
+            "audio": "speaking-practice/sante/ondes_electromagnetiques_risques_sanitaires/audio/model_answer.mp3"
+        }
+    ]
+}

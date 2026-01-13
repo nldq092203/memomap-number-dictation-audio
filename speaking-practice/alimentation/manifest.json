@@ -1,0 +1,17 @@
+{
+    "topic": "alimentation",
+    "title": "L'alimentation",
+    "level": "B2",
+    "subtopics": [
+        {
+            "id": "modes_consommation",
+            "title": "Modes de consommation",
+            "contentPath": "speaking-practice/alimentation/modes_consommation/content.json"
+        },
+        {
+            "id": "sante",
+            "title": "Alimentation et santé",
+            "contentPath": "speaking-practice/alimentation/sante/content.json"
+        }
+    ]
+}

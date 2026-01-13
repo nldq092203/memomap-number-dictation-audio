@@ -1,0 +1,42 @@
+{
+    "topic": "travail",
+    "title": "Le travail",
+    "level": "B2",
+    "subtopics": [
+        {
+            "id": "discrimination_embauche",
+            "title": "Discrimination à l'embauche",
+            "contentPath": "speaking-practice/travail/discrimination_embauche/content.json"
+        },
+        {
+            "id": "equilibre_vie_pro_vie_perso_difficultes",
+            "title": "Équilibre vie pro/vie perso - Difficultés",
+            "contentPath": "speaking-practice/travail/equilibre_vie_pro_vie_perso_difficultes/content.json"
+        },
+        {
+            "id": "equilibre_vie_pro_vie_perso_sante",
+            "title": "Équilibre vie pro/vie perso - Santé",
+            "contentPath": "speaking-practice/travail/equilibre_vie_pro_vie_perso_sante/content.json"
+        },
+        {
+            "id": "equilibre_vie_pro_vie_perso_solutions",
+            "title": "Équilibre vie pro/vie perso - Solutions",
+            "contentPath": "speaking-practice/travail/equilibre_vie_pro_vie_perso_solutions/content.json"
+        },
+        {
+            "id": "teletravail_classic",
+            "title": "Télétravail - Vue générale",
+            "contentPath": "speaking-practice/travail/teletravail_classic/content.json"
+        },
+        {
+            "id": "teletravail_decision",
+            "title": "Télétravail - Décision",
+            "contentPath": "speaking-practice/travail/teletravail_decision/content.json"
+        },
+        {
+            "id": "teletravail_roles",
+            "title": "Télétravail - Rôles",
+            "contentPath": "speaking-practice/travail/teletravail_roles/content.json"
+        }
+    ]
+}

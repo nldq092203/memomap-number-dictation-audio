@@ -1,0 +1,36 @@
+{
+    "id": "equilibre_vie_pro_vie_perso_difficultes",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Équilibre vie professionnelle et vie personnelle",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler de l’équilibre entre la vie professionnelle et la vie personnelle.",
+            "audio": "speaking-practice/travail/equilibre_vie_pro_vie_perso_difficultes/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Trouvez-vous facile de concilier votre travail et votre vie personnelle ?",
+            "s": 45,
+            "audio": "speaking-practice/travail/equilibre_vie_pro_vie_perso_difficultes/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quelles sont, selon vous, les principales difficultés pour trouver cet équilibre ?",
+            "s": 60,
+            "audio": "speaking-practice/travail/equilibre_vie_pro_vie_perso_difficultes/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Pensez-vous que ces difficultés sont les mêmes pour tous les métiers ?",
+            "s": 90,
+            "audio": "speaking-practice/travail/equilibre_vie_pro_vie_perso_difficultes/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Personnellement, je trouve que ce n’est pas toujours facile de concilier le travail et la vie personnelle, surtout quand le rythme de travail est intense. Je pense que la principale difficulté vient du manque de temps, car on a souvent du mal à déconnecter et à vraiment se reposer. Cela dit, ces difficultés ne sont pas les mêmes pour tous les métiers, puisque certains horaires sont plus flexibles que d’autres. Donc, à mon avis, trouver un bon équilibre dépend beaucoup du type de travail et de l’organisation mise en place.",
+            "audio": "speaking-practice/travail/equilibre_vie_pro_vie_perso_difficultes/audio/model_answer.mp3"
+        }
+    ]
+}

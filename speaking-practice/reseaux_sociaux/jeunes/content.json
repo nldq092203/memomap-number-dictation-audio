@@ -1,0 +1,36 @@
+{
+    "id": "reseaux_sociaux_jeunes",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Les réseaux sociaux",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler de l’utilisation des réseaux sociaux chez les jeunes.",
+            "audio": "speaking-practice/reseaux_sociaux/jeunes/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Selon vous, les jeunes utilisent-ils beaucoup les réseaux sociaux ?",
+            "s": 45,
+            "audio": "speaking-practice/reseaux_sociaux/jeunes/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quels effets positifs les réseaux sociaux peuvent-ils avoir pour les jeunes ?",
+            "s": 60,
+            "audio": "speaking-practice/reseaux_sociaux/jeunes/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Quels risques ces usages peuvent-ils aussi entraîner ?",
+            "s": 90,
+            "audio": "speaking-practice/reseaux_sociaux/jeunes/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "À mon avis, beaucoup de jeunes utilisent très régulièrement les réseaux sociaux, car ils font partie de leur quotidien. Je pense que cela peut avoir des effets positifs, par exemple pour communiquer facilement, s’informer ou même s’exprimer et développer sa créativité. Mais il y a aussi des risques, notamment la pression sociale, la comparaison permanente avec les autres ou le manque de recul face aux contenus. Donc, selon moi, les réseaux sociaux peuvent être utiles pour les jeunes, à condition qu’ils soient accompagnés et qu’ils apprennent à les utiliser de manière plus responsable.",
+            "audio": "speaking-practice/reseaux_sociaux/jeunes/audio/model_answer.mp3"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "topic": "environnement",
+    "title": "L'environnement",
+    "level": "B2",
+    "subtopics": [
+        {
+            "id": "changement_climatique",
+            "title": "Changement climatique",
+            "contentPath": "speaking-practice/environnement/changement_climatique/content.json"
+        },
+        {
+            "id": "gestes_quotidiens",
+            "title": "Gestes quotidiens",
+            "contentPath": "speaking-practice/environnement/gestes_quotidiens/content.json"
+        },
+        {
+            "id": "responsabilite_collective",
+            "title": "Responsabilité collective",
+            "contentPath": "speaking-practice/environnement/responsabilite_collective/content.json"
+        },
+        {
+            "id": "voiture_hybride",
+            "title": "Voiture hybride",
+            "contentPath": "speaking-practice/environnement/voiture_hybride/content.json"
+        }
+    ]
+}

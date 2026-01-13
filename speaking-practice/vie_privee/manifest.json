@@ -1,0 +1,12 @@
+{
+    "topic": "vie_privee",
+    "title": "La vie privée",
+    "level": "B2",
+    "subtopics": [
+        {
+            "id": "droit_image",
+            "title": "Droit à l'image",
+            "contentPath": "speaking-practice/vie_privee/droit_image/content.json"
+        }
+    ]
+}

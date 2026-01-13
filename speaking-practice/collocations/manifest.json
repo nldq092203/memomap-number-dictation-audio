@@ -1,0 +1,17 @@
+{
+    "topic": "collocations",
+    "title": "Les collocations",
+    "level": "B2",
+    "subtopics": [
+        {
+            "id": "apprentissage",
+            "title": "Collocations - Apprentissage",
+            "contentPath": "speaking-practice/collocations/apprentissage/content.json"
+        },
+        {
+            "id": "methodes",
+            "title": "Collocations - Méthodes",
+            "contentPath": "speaking-practice/collocations/methodes/content.json"
+        }
+    ]
+}

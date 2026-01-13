@@ -1,0 +1,36 @@
+{
+    "id": "teletravail_roles",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Télétravail",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler du télétravail selon différents points de vue.",
+            "audio": "speaking-practice/travail/teletravail_roles/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Du point de vue du salarié, quels sont les avantages du télétravail ?",
+            "s": 60,
+            "audio": "speaking-practice/travail/teletravail_roles/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Du point de vue du manager, quelles difficultés le télétravail peut-il poser ?",
+            "s": 60,
+            "audio": "speaking-practice/travail/teletravail_roles/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Comment peut-on trouver un bon équilibre entre les besoins des salariés et ceux de l’entreprise ?",
+            "s": 90,
+            "audio": "speaking-practice/travail/teletravail_roles/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Pour le salarié, le télétravail est souvent apprécié parce qu’il offre plus de flexibilité et permet de mieux organiser sa vie quotidienne. En revanche, pour le manager, ce n’est pas toujours simple, notamment pour le suivi du travail et la coordination des équipes. Je pense qu’un bon équilibre est possible si les objectifs sont clairs, si la communication est régulière et si le télétravail n’est pas systématique, mais combiné avec des moments de présence au bureau.",
+            "audio": "speaking-practice/travail/teletravail_roles/audio/model_answer.mp3"
+        }
+    ]
+}

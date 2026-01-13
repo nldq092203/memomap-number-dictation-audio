@@ -1,0 +1,36 @@
+{
+    "id": "alimentation_sante",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "L’alimentation",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler de l’alimentation et de son impact sur la santé.",
+            "audio": "speaking-practice/alimentation/sante/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Faites-vous attention à votre alimentation au quotidien ?",
+            "s": 45,
+            "audio": "speaking-practice/alimentation/sante/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Pourquoi une alimentation équilibrée est-elle importante pour la santé ?",
+            "s": 60,
+            "audio": "speaking-practice/alimentation/sante/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Est-il toujours facile de manger sainement aujourd’hui ?",
+            "s": 90,
+            "audio": "speaking-practice/alimentation/sante/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "De nos jours, beaucoup de personnes essaient de faire attention à leur alimentation, car on sait qu’elle joue un rôle important pour la santé. Une alimentation équilibrée permet de rester en forme, d’éviter certaines maladies et d’avoir plus d’énergie au quotidien. Cela dit, manger sainement n’est pas toujours facile, notamment à cause du manque de temps, du coût de certains produits ou de la présence de nombreux aliments transformés. Ainsi, même si l’équilibre alimentaire est essentiel, il demande souvent des efforts et une certaine organisation.",
+            "audio": "speaking-practice/alimentation/sante/audio/model_answer.mp3"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "environnement_changement_climatique",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Protéger l’environnement",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler du changement climatique et de ses conséquences.",
+            "audio": "speaking-practice/environnement/changement_climatique/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Le changement climatique vous inquiète-t-il personnellement ?",
+            "s": 45,
+            "audio": "speaking-practice/environnement/changement_climatique/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quelles conséquences du changement climatique vous semblent les plus préoccupantes ?",
+            "s": 60,
+            "audio": "speaking-practice/environnement/changement_climatique/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Pensez-vous que l’on réagit assez vite face à ce problème ?",
+            "s": 90,
+            "audio": "speaking-practice/environnement/changement_climatique/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Personnellement, le changement climatique m’inquiète assez, surtout quand on voit la multiplication des phénomènes extrêmes. Je pense que les conséquences les plus préoccupantes sont la hausse des températures, les catastrophes naturelles et leurs impacts sur les populations. Cela dit, j’ai l’impression que les réactions restent souvent trop lentes, même si la prise de conscience progresse. Donc, à mon avis, il faudrait agir plus rapidement et de manière plus coordonnée pour limiter les dégâts à long terme.",
+            "audio": "speaking-practice/environnement/changement_climatique/audio/model_answer.mp3"
+        }
+    ]
+}

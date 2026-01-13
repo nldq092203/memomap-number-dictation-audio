@@ -1,0 +1,36 @@
+{
+    "id": "teletravail_decision",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "Télétravail",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons réfléchir à la place du télétravail dans les entreprises.",
+            "audio": "speaking-practice/travail/teletravail_decision/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Selon vous, le télétravail devrait-il devenir plus fréquent ?",
+            "s": 60,
+            "audio": "speaking-practice/travail/teletravail_decision/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quelles conditions sont nécessaires pour que le télétravail fonctionne bien ?",
+            "s": 60,
+            "audio": "speaking-practice/travail/teletravail_decision/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "Dans quels cas le télétravail vous semble-t-il difficile à mettre en place ?",
+            "s": 90,
+            "audio": "speaking-practice/travail/teletravail_decision/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Je pense que le télétravail a vocation à se développer davantage, surtout dans les métiers où le travail peut se faire à distance sans difficulté. Pour que cela fonctionne bien, il faut surtout une bonne organisation, de la confiance et une communication claire entre les équipes. En revanche, dans certains cas, par exemple quand le travail repose beaucoup sur le contact humain ou le travail collectif, le télétravail peut être plus compliqué à mettre en place. Donc, à mon avis, ce n’est pas une solution unique, mais plutôt une option à adapter selon les situations.",
+            "audio": "speaking-practice/travail/teletravail_decision/audio/model_answer.mp3"
+        }
+    ]
+}

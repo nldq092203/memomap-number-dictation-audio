@@ -1,0 +1,36 @@
+{
+    "id": "voiture_hybride",
+    "lang": "fr",
+    "level": "B2",
+    "topic": "La voiture hybride",
+    "items": [
+        {
+            "id": "intro",
+            "t": "Nous allons parler de la voiture hybride.",
+            "audio": "speaking-practice/environnement/voiture_hybride/audio/intro.mp3"
+        },
+        {
+            "id": "q1",
+            "t": "Connaissez-vous le principe de fonctionnement d’une voiture hybride ou en avez-vous déjà utilisé une ?",
+            "s": 45,
+            "audio": "speaking-practice/environnement/voiture_hybride/audio/q1_warmup.mp3"
+        },
+        {
+            "id": "q2",
+            "t": "Quels sont, selon vous, les principaux avantages de la voiture hybride ?",
+            "s": 60,
+            "audio": "speaking-practice/environnement/voiture_hybride/audio/q2_opinion.mp3"
+        },
+        {
+            "id": "q3",
+            "t": "La voiture hybride présente-t-elle aussi des limites ou des inconvénients ?",
+            "s": 90,
+            "audio": "speaking-practice/environnement/voiture_hybride/audio/q3_nuance.mp3"
+        },
+        {
+            "id": "model",
+            "t": "Aujourd’hui, la voiture hybride est de plus en plus connue et utilisée, car elle combine un moteur thermique et un moteur électrique. Son principal avantage est qu’elle permet de réduire la consommation de carburant et les émissions polluantes, surtout en ville, ce qui peut être intéressant pour l’environnement. De plus, elle offre souvent une conduite plus silencieuse et plus confortable. Cependant, la voiture hybride présente aussi certaines limites, comme un prix d’achat plus élevé et une efficacité moindre sur les longs trajets autoroutiers. Ainsi, il s’agit d’une solution de transition intéressante, mais qui ne répond pas forcément à tous les besoins.",
+            "audio": "speaking-practice/environnement/voiture_hybride/audio/model_answer.mp3"
+        }
+    ]
+}
