@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "type": "compréhension_écrite",
+    "niveau": "B2",
+    "titre": "Tensions diplomatiques : le Groenland répond aux États-Unis",
+    "consigne": null,
+    "total_questions": 11
+  },
+  "questions": [
+    {
+      "id": "CE_01",
+      "type": "single_choice",
+      "question": "Quelle est la position commune adoptée par les partis politiques groenlandais ?",
+      "options": [
+        "Ils sont ouverts à la négociation sous certaines conditions financières.",
+        "Ils rejettent catégoriquement l'idée de devenir américains.",
+        "Ils demandent un délai de réflexion avant de répondre à Washington."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte commence par leur réponse directe : 'Nous ne voulons pas être américains'."
+    },
+    {
+      "id": "CE_02",
+      "type": "single_choice",
+      "question": "Comment Donald Trump envisage-t-il l'acquisition de ce territoire ?",
+      "options": [
+        "Uniquement par la voie diplomatique traditionnelle.",
+        "Il se montre déterminé, n'excluant pas l'usage de méthodes coercitives.",
+        "Il compte sur l'effondrement économique du Groenland."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Il déclare être 'prêt à tout', que ce soit de la 'manière douce ou de la manière forte'."
+    },
+    {
+      "id": "CE_03",
+      "type": "lexical_in_context",
+      "question": "Dans la phrase 'les habitants restent fermes', que signifie l'adjectif 'fermes' ?",
+      "options": [
+        "Ils sont inquiets et tremblants.",
+        "Ils sont résolus et ne changent pas d'avis.",
+        "Ils sont agressifs envers les journalistes."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Être ferme signifie faire preuve de détermination et de constance dans ses opinions."
+    },
+    {
+      "id": "CE_04",
+      "type": "inference",
+      "question": "Quelle est l'attitude de la population face à l'incitation financière évoquée ?",
+      "options": [
+        "L'indifférence : l'identité ne s'achète pas.",
+        "L'hésitation : la situation économique est difficile.",
+        "L'enthousiasme : ils ont besoin d'argent."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "L'habitant répond 'Non merci. Je n'ai pas besoin d'argent', montrant que l'aspect financier n'est pas un levier efficace."
+    },
+    {
+      "id": "CE_05",
+      "type": "single_choice",
+      "question": "Quel acte politique les représentants ont-ils posé pour officialiser leur refus ?",
+      "options": [
+        "Ils ont expulsé le consul américain.",
+        "Ils ont signé une déclaration commune affirmant que le pays n'est pas à vendre.",
+        "Ils ont organisé un référendum d'urgence."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte cite : 'Ils ont signé une déclaration commune [...] Le Groenland n'a jamais été à vendre'."
+    },
+    {
+      "id": "CE_06",
+      "type": "inference",
+      "question": "Quelle menace implicite les États-Unis laissent-ils planer ?",
+      "options": [
+        "Un embargo commercial total.",
+        "L'annexion unilatérale du territoire.",
+        "L'arrêt des vols aériens vers le Groenland."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "L'analyse groenlandaise est que les USA 'n'excluent pas l'annexion de notre pays'."
+    },
+    {
+      "id": "CE_07",
+      "type": "single_choice",
+      "question": "Quelle stratégie alternative est proposée par l'opposition groenlandaise ?",
+      "options": [
+        "Rompre tout contact avec les États-Unis.",
+        "Négocier directement avec Washington en excluant le Danemark.",
+        "Demander la protection de l'Union Européenne."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "L'opposition suggère d''engager un dialogue avec le gouvernement américain sans le Danemark'."
+    },
+    {
+      "id": "CE_08",
+      "type": "single_choice",
+      "question": "Quel reproche principal l'opposition fait-elle au Danemark ?",
+      "options": [
+        "Le Danemark cherche à vendre le Groenland en secret.",
+        "Le Danemark entrave, même involontairement, le processus d'indépendance.",
+        "Le Danemark refuse de protéger militairement l'île."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le Danemark est accusé de 'faire échouer toute discussion sur l'indépendance', même avec la 'meilleure intention'."
+    },
+    {
+      "id": "CE_09",
+      "type": "lexical_in_context",
+      "question": "Que signifie le verbe 'marteler' dans 'Donald Trump martelle que le contrôle du Groenland...' ?",
+      "options": [
+        "Il chuchote discrètement.",
+        "Il répète avec insistance et force.",
+        "Il écrit sur Twitter."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Marteler (figuré) signifie affirmer quelque chose avec force et répétition pour convaincre."
+    },
+    {
+      "id": "CE_10",
+      "type": "single_choice",
+      "question": "Quel argument géopolitique le président américain utilise-t-il pour justifier ses ambitions ?",
+      "options": [
+        "La nécessité de protéger l'Arctique du réchauffement climatique.",
+        "La prévention d'une occupation par la Chine ou la Russie.",
+        "Le besoin de nouvelles routes commerciales."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Il justifie cela par la sécurité : 'Sinon [...] c'est la Chine ou la Russie qui l'occuperont'."
+    },
+    {
+      "id": "CE_11",
+      "type": "author_intention",
+      "question": "Quelle image du peuple groenlandais ce reportage renvoie-t-il ?",
+      "options": [
+        "Celle d'un peuple divisé et prêt à se vendre au plus offrant.",
+        "Celle d'un peuple uni et résistant face aux pressions extérieures.",
+        "Celle d'un peuple indifférent à la politique internationale."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "L'image dominante est la fermeté ('habitants restent fermes', 'jamais été à vendre', 'non merci')."
+    }
+  ]
+}
