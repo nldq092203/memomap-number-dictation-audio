@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "type": "compréhension_écrite",
+    "niveau": "B2",
+    "titre": "Noël sous les eaux à Los Angeles",
+    "consigne": null,
+    "total_questions": 13
+  },
+  "questions": [
+    {
+      "id": "CE_01",
+      "type": "single_choice",
+      "question": "Quelle expression le journaliste utilise-t-il pour décrire la difficulté extrême des déplacements ?",
+      "options": [
+        "Un cauchemar éveillé.",
+        "Un parcours du combattant.",
+        "Une impasse totale."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "L'expression imagée utilisée est 'un parcours du combattant' pour illustrer les obstacles sur la route."
+    },
+    {
+      "id": "CE_02",
+      "type": "single_choice",
+      "question": "Quel contraste dramatique est mis en avant dès le début du reportage ?",
+      "options": [
+        "Le contraste entre la richesse de la ville et la pauvreté des infrastructures.",
+        "Le contraste entre le désir de rejoindre sa famille pour les fêtes et la réalité du blocage.",
+        "Le contraste entre la sécheresse habituelle et les inondations soudaines."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte oppose 'voulaient rejoindre leur famille pour Noël' à 'se retrouvent bloqués'."
+    },
+    {
+      "id": "CE_03",
+      "type": "lexical_in_context",
+      "question": "Dans la phrase 'Les secours enchaînent les interventions', que signifie 'enchaînent' ?",
+      "options": [
+        "Ils réalisent les interventions les unes après les autres sans pause.",
+        "Ils annulent les interventions jugées trop dangereuses.",
+        "Ils coordonnent les interventions avec la police."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Enchaîner signifie ici effectuer une série d'actions de manière continue et rapide."
+    },
+    {
+      "id": "CE_04",
+      "type": "inference",
+      "question": "Quelle a été la priorité absolue pour les automobilistes surpris par la crue ?",
+      "options": [
+        "Sauver leurs cadeaux de Noël restés dans le coffre.",
+        "Tenter de pousser leur véhicule vers une zone sèche.",
+        "Abandonner leurs biens matériels pour préserver leur vie."
+      ],
+      "correct_indices": [
+        2
+      ],
+      "explanation": "Le texte dit : 'La seule chose à faire, c'était de l'abandonner pour sauver nos vies'."
+    },
+    {
+      "id": "CE_05",
+      "type": "single_choice",
+      "question": "Outre l'eau, quel autre élément naturel menace les habitations dans les zones montagneuses ?",
+      "options": [
+        "Des chutes de pierres.",
+        "La boue.",
+        "La neige."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte mentionne : 'les maisons sont submergées par les eaux et la boue'."
+    },
+    {
+      "id": "CE_06",
+      "type": "inference",
+      "question": "Pourquoi les familles ont-elles dû prendre des décisions difficiles concernant le réveillon ?",
+      "options": [
+        "Parce que les magasins étaient fermés.",
+        "Parce que les conditions météorologiques rendaient tout déplacement trop dangereux.",
+        "Parce que l'électricité était coupée dans toute la ville."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "On entend : 'la pluie est tellement forte. On les a découragé de venir'."
+    },
+    {
+      "id": "CE_07",
+      "type": "lexical_in_context",
+      "question": "Que signifie 'prendre au piège' dans le contexte 'prenant au piège les véhicules' ?",
+      "options": [
+        "Capturer pour voler.",
+        "Immobiliser sans possibilité de sortie.",
+        "Endommager légèrement."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Être pris au piège signifie être coincé, immobilisé par un danger (ici la boue ou l'eau)."
+    },
+    {
+      "id": "CE_08",
+      "type": "single_choice",
+      "question": "Quelle conséquence personnelle une habitante mentionne-t-elle pour illustrer la gravité de la situation ?",
+      "options": [
+        "Sa maison a été détruite.",
+        "Sa mère est hospitalisée à cause des inondations.",
+        "Elle a perdu son emploi."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Témoignage précis : 'Ma mère est à l'hôpital à cause des inondations'."
+    },
+    {
+      "id": "CE_09",
+      "type": "single_choice",
+      "question": "Quelles sont les prévisions météorologiques mentionnées à la fin du document ?",
+      "options": [
+        "Une amélioration rapide dès le lendemain.",
+        "Des chutes de neige en altitude.",
+        "Des précipitations équivalentes à plusieurs mois de pluie."
+      ],
+      "correct_indices": [
+        2
+      ],
+      "explanation": "Prévision : 'il pourrait tomber l'équivalent de plusieurs mois de précipitation'."
+    },
+    {
+      "id": "CE_10",
+      "type": "author_intention",
+      "question": "Quelle impression générale ce reportage cherche-t-il à transmettre ?",
+      "options": [
+        "Une impression de solidarité joyeuse malgré tout.",
+        "Une impression de chaos et de bouleversement total des habitudes.",
+        "Une critique de la gestion politique de la ville."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le reportage accumule les descriptions de désordre ('cauchemar', 'bouleversées', 'annulé') pour montrer le chaos."
+    },
+    {
+      "id": "CE_11",
+      "type": "true_false_not_given",
+      "question": "Les automobilistes ont réussi à sauver leurs véhicules en les poussant hors de l'eau.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Le texte précise : 'C'était trop dangereux de sortir de la voiture et d'essayer de la pousser'."
+    },
+    {
+      "id": "CE_12",
+      "type": "true_false_not_given",
+      "question": "Les inondations touchent uniquement les routes et épargnent les zones résidentielles.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Le reportage indique : 'Dans les montagnes autour de Los Angeles, les maisons sont submergées'."
+    },
+    {
+      "id": "CE_13",
+      "type": "true_false_not_given",
+      "question": "Le gouverneur de Californie a déclaré l'état d'urgence dans tout l'État.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        2
+      ],
+      "explanation": "Cela n'est pas dit. Le texte décrit la situation locale et les secours, mais ne mentionne pas de déclaration officielle du gouverneur."
+    }
+  ]
+}
