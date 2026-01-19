@@ -1,158 +1,156 @@
 {
   "meta": {
-    "type": "compréhension_orale",
+    "type": "compréhension_écrite",
     "niveau": "B2",
-    "titre": "Comportements face à la mort : humains et animaux",
+    "titre": "Rites funéraires : une exception humaine remise en question ?",
     "consigne": null,
     "total_questions": 13
   },
   "questions": [
     {
-      "id": "CO_01",
+      "id": "CE_01",
       "type": "single_choice",
-      "question": "Quelle découverte récente en Inde est mentionnée au début du document ?",
+      "question": "Quelle certitude anthropologique a été ébranlée par une découverte en 2024 ?",
       "options": [
-        "Un cimetière d'éléphants légendaire.",
-        "Des éléphantaux enterrés dans des plantations de thé.",
-        "Des ossements de chimpanzés préhistoriques."
+        "L'idée que les éléphants sont les seuls animaux à pleurer leurs morts.",
+        "Le fait que l'enterrement des défunts soit une pratique exclusivement humaine.",
+        "L'hypothèse selon laquelle les rites funéraires sont apparus au Néolithique."
       ],
       "correct_indices": [
         1
       ],
-      "explanation": "Fait précis : 'cords de cinq éléphantaux ont été retrouvées enterrées dans différentes plantations de thé'."
+      "explanation": "Le texte dit : 'l'espèce humaine s'est considérée comme la seule à enterrer ses morts. Pourtant, une découverte en 2024 a fait plus que relativiser cette affirmation'."
     },
     {
-      "id": "CO_02",
+      "id": "CE_02",
       "type": "single_choice",
-      "question": "Quel geste les éléphants accomplissent-ils parfois envers un congénère mort ?",
+      "question": "Quelle particularité les corps des éléphantaux retrouvés en Inde présentaient-ils ?",
       "options": [
-        "Ils le transportent sur de longues distances.",
-        "Ils le recouvrent de végétaux (branches, palmes).",
-        "Ils poussent des cris spécifiques pendant plusieurs jours."
-      ],
-      "correct_indices": [
-        1
-      ],
-      "explanation": "Action décrite : 'recouvrent le corps de leur congénère par des branches ou des palmes'."
-    },
-    {
-      "id": "CO_03",
-      "type": "single_choice",
-      "question": "Comment les éléphants interagissent-ils avec les squelettes de leur propre espèce ?",
-      "options": [
-        "Ils les piétinent pour les faire disparaître.",
-        "Ils les ignorent totalement.",
-        "Ils les explorent tactilement avec leur trompe."
+        "Ils étaient recouverts d'ocres et de parures.",
+        "Ils étaient orientés vers le soleil levant.",
+        "Ils étaient enfouis dans une posture spécifique, les pattes vers le haut."
       ],
       "correct_indices": [
         2
       ],
-      "explanation": "Action décrite : 'explorent avec leur trompe les ossements'."
+      "explanation": "Détail du texte : 'retrouvées enterrées [...] et tous placés les pattes en l'air'."
     },
     {
-      "id": "CO_04",
-      "type": "single_choice",
-      "question": "Quel comportement maternel touchant observe-t-on chez les chimpanzés ?",
+      "id": "CE_03",
+      "type": "lexical_in_context",
+      "question": "Dans la phrase 'congénère mort ou mourant', que désigne le terme 'congénère' ?",
       "options": [
-        "La mère garde le corps de son petit avec elle pendant une longue période.",
-        "La mère enterre son petit immédiatement.",
-        "La mère abandonne le groupe pour mourir seule."
+        "Un animal d'une espèce différente mais proche.",
+        "Un individu appartenant à la même espèce.",
+        "Un membre de la famille directe uniquement."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Un congénère est un individu de la même espèce (utilisé ici pour les éléphants et les chimpanzés)."
+    },
+    {
+      "id": "CE_04",
+      "type": "single_choice",
+      "question": "Comment les chimpanzés réagissent-ils généralement face à un décès dû à la maladie ?",
+      "options": [
+        "Par de l'indifférence.",
+        "Par une attitude d'évitement ou de crainte.",
+        "Par une agressivité soudaine."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte décrit 'une réaction de peur ou de fuite' devant un corps mort de maladie."
+    },
+    {
+      "id": "CE_05",
+      "type": "inference",
+      "question": "Quel défi majeur les archéologues rencontrent-ils concernant les sépultures préhistoriques anciennes ?",
+      "options": [
+        "Dater précisément les ossements retrouvés.",
+        "Distinguer un ensevelissement naturel d'un acte volontaire.",
+        "Trouver des traces d'ADN exploitables."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le challenge est de 'reconnaître l'intentionnalité du geste funéraire' face à un corps 'enseveli par hasard'."
+    },
+    {
+      "id": "CE_06",
+      "type": "single_choice",
+      "question": "Quelle évolution marque les pratiques funéraires humaines un peu plus tard dans l'histoire ?",
+      "options": [
+        "L'ajout d'éléments symboliques et décoratifs auprès du défunt.",
+        "La crémation systématique des corps.",
+        "L'abandon des corps aux prédateurs."
       ],
       "correct_indices": [
         0
       ],
-      "explanation": "Le texte mentionne qu'elle 'le conserve et le porte pendant plusieurs jours, parfois même plusieurs semaines'."
+      "explanation": "Le texte cite l'apparition de 'dépôts d'objets, de parure, d'ocres'."
     },
     {
-      "id": "CO_05",
-      "type": "single_choice",
-      "question": "Depuis quand l'être humain pratique-t-il l'enterrement selon le document ?",
+      "id": "CE_07",
+      "type": "lexical_in_context",
+      "question": "Que signifie le verbe 'se densifier' dans 'Les groupes humains se densifient' ?",
       "options": [
-        "Depuis le Néolithique (10 000 ans).",
-        "Depuis au moins 100 000 ans.",
-        "Depuis l'invention de l'écriture."
-      ],
-      "correct_indices": [
-        1
-      ],
-      "explanation": "Chiffre cité : 'enterrent leur mort depuis au moins 100 000 ans'."
-    },
-    {
-      "id": "CO_06",
-      "type": "single_choice",
-      "question": "Quelle difficulté les anthropologues rencontrent-ils pour identifier les premières tombes ?",
-      "options": [
-        "L'absence de marqueurs visibles comme des pierres tombales.",
-        "La profondeur trop importante des tombes.",
-        "La destruction des sites par les animaux."
+        "Ils deviennent plus nombreux et concentrés.",
+        "Ils deviennent plus agressifs.",
+        "Ils deviennent plus intelligents."
       ],
       "correct_indices": [
         0
       ],
-      "explanation": "Le texte dit : 'Sur ces premières sépultures, pas de pierre tombale ou d'épitaphe'."
+      "explanation": "Se densifier signifie augmenter en nombre ou en concentration dans un espace donné."
     },
     {
-      "id": "CO_07",
+      "id": "CE_08",
       "type": "single_choice",
-      "question": "À quelle période apparaissent les premières nécropoles ?",
+      "question": "Comment l'organisation spatiale de la mort change-t-elle avec la sédentarisation ?",
       "options": [
-        "Lorsque les humains étaient encore nomades.",
-        "Lorsque les humains se sédentarisent au Néolithique.",
-        "À l'époque industrielle."
+        "Les morts sont enterrés sous les lits pour toujours.",
+        "Les morts sont progressivement exclus de l'espace domestique vers des lieux dédiés.",
+        "Les morts sont transportés dans des grottes lointaines."
       ],
       "correct_indices": [
         1
       ],
-      "explanation": "Lien temporel : 'quand les humains se sédentarisent au néolithique [...] qu'apparaissent les premières nécropoles'."
+      "explanation": "Le texte explique : 'les morts vont progressivement être séparés du lieu de vie et regroupés entre eux' (nécropoles)."
     },
     {
-      "id": "CO_08",
-      "type": "single_choice",
-      "question": "Que sont les dolmens mentionnés dans le reportage ?",
+      "id": "CE_09",
+      "type": "inference",
+      "question": "Quelle différence fondamentale subsiste entre les humains et les animaux selon la conclusion ?",
       "options": [
-        "Des outils pour creuser les tombes.",
-        "Des sépultures monumentales apparues en Europe.",
-        "Des bijoux retrouvés dans les tombes."
+        "La conscience de la mort est absente chez les animaux.",
+        "La dimension symbolique et rituelle semble propre à l'humain.",
+        "Les animaux ne ressentent aucune émotion face à la perte."
       ],
       "correct_indices": [
         1
       ],
-      "explanation": "Définition : 'sépultures monumentales, les fameux dolmens'."
+      "explanation": "Conclusion : 'Le traitement des morts indique une réelle dimension symbolique que l'on ne sait jusqu'ici pas mettre en évidence chez les animaux'."
     },
     {
-      "id": "CO_09",
-      "type": "multiple_choice",
-      "question": "Quels types d'objets a-t-on commencé à déposer auprès des défunts ? (2 réponses)",
+      "id": "CE_10",
+      "type": "author_intention",
+      "question": "Quel est l'objectif global de ce texte ?",
       "options": [
-        "Des armes à feu.",
-        "Des parures.",
-        "De l'ocre.",
-        "Des pièces de monnaie."
-      ],
-      "correct_indices": [
-        1,
-        2
-      ],
-      "explanation": "Liste entendue : 'dépôts d'objets, de parure, d'ocres'."
-    },
-    {
-      "id": "CO_10",
-      "type": "single_choice",
-      "question": "Quelle conclusion est tirée concernant la conscience de la mort ?",
-      "options": [
-        "Elle est unique à l'homme.",
-        "Elle existe probablement chez plusieurs espèces autres que l'humain.",
-        "On ne peut rien prouver scientifiquement."
+        "Prouver que les animaux sont plus évolués que les humains.",
+        "Retracer l'histoire des rites funéraires tout en nuançant la singularité humaine.",
+        "Décrire uniquement les découvertes archéologiques en Inde."
       ],
       "correct_indices": [
         1
       ],
-      "explanation": "Phrase de fin : 'plusieurs autres espèces que les humains ont bien conscience de la mort'."
+      "explanation": "Le texte navigue entre l'éthologie (animaux) et l'archéologie (humains) pour questionner la frontière entre les deux."
     },
     {
-      "id": "CO_11",
+      "id": "CE_11",
       "type": "true_false_not_given",
-      "question": "Les chimpanzés pratiquent des rituels d'enterrement complexes.",
+      "question": "Les éléphants manifestent de l'intérêt pour les ossements de toutes les espèces animales qu'ils croisent.",
       "options": [
         "Vrai",
         "Faux",
@@ -161,26 +159,12 @@
       "correct_indices": [
         1
       ],
-      "explanation": "Faux. Le texte affirme : 'mais d'enterrement rituel chez les chimpanzés, aucun'."
+      "explanation": "Faux. Le texte précise : 'Un comportement que les éléphants n'opèrent pas avec les ossements d'autres animaux'."
     },
     {
-      "id": "CO_12",
+      "id": "CE_12",
       "type": "true_false_not_given",
-      "question": "Les premiers humains sédentaires enterraient parfois leurs morts à l'intérieur des maisons.",
-      "options": [
-        "Vrai",
-        "Faux",
-        "Cela n'est pas dit"
-      ],
-      "correct_indices": [
-        0
-      ],
-      "explanation": "Vrai. Le texte dit : 'D'abord enterrés à l'intérieur ou à proximité des maisons'."
-    },
-    {
-      "id": "CO_13",
-      "type": "true_false_not_given",
-      "question": "La crémation est la méthode funéraire la plus répandue en Asie.",
+      "question": "Les premières nécropoles sont apparues avant l'invention de l'agriculture.",
       "options": [
         "Vrai",
         "Faux",
@@ -189,7 +173,21 @@
       "correct_indices": [
         2
       ],
-      "explanation": "Cela n'est pas dit. Le texte mentionne que le corps peut être 'brûlé', mais ne donne pas de détails géographiques sur la prévalence de la crémation en Asie."
+      "explanation": "Cela n'est pas dit explicitement (le texte lie les nécropoles à la sédentarisation vers 10 000 avant notre ère, mais ne mentionne pas le terme 'agriculture')."
+    },
+    {
+      "id": "CE_13",
+      "type": "true_false_not_given",
+      "question": "L'inhumation (l'enterrement) est la seule forme de traitement funéraire respectueuse inventée par l'homme.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Le texte cite d'autres manières : 'corps exposé, brûlé' dans le respect des rites."
     }
   ]
 }
