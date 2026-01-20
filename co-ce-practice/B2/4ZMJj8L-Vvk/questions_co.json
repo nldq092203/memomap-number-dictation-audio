@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "type": "compréhension_orale",
+    "niveau": "B2",
+    "titre": "La recherche face aux défis de la fin de vie",
+    "consigne": null,
+    "total_questions": 13
+  },
+  "questions": [
+    {
+      "id": "CO_01",
+      "type": "single_choice",
+      "question": "Quel événement législatif motive cette interview ?",
+      "options": [
+        "Le vote final d'une loi à l'Assemblée nationale.",
+        "L'arrivée de propositions de loi au Sénat.",
+        "Une manifestation de médecins dans la rue."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Phrase d'intro : 'Les propositions de loi [...] arrivent enfin au Sénat'."
+    },
+    {
+      "id": "CO_02",
+      "type": "single_choice",
+      "question": "Quel est le domaine de spécialité initial de Clément Cormi ?",
+      "options": [
+        "La médecine générale.",
+        "L'informatique.",
+        "La psychologie."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Présentation : 'Vous êtes docteur en informatique'."
+    },
+    {
+      "id": "CO_03",
+      "type": "single_choice",
+      "question": "Sur quel sujet spécifique portaient les travaux de thèse de l'invité ?",
+      "options": [
+        "L'utilisation de la télémédecine en EHPAD.",
+        "La gestion des stocks de médicaments.",
+        "L'intelligence artificielle en chirurgie."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Il dit : 'Mes travaux de thèse m'ont conduit à m'intéresser à l'utilisation de la télémédecine en EHPAD'."
+    },
+    {
+      "id": "CO_04",
+      "type": "single_choice",
+      "question": "Quels sont les deux volets distincts des projets de loi mentionnés ?",
+      "options": [
+        "Les soins à domicile et les soins à l'hôpital.",
+        "L'organisation des soins palliatifs et l'aide à mourir.",
+        "Le financement de la recherche et la formation des infirmiers."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Il distingue : 'Le premier autour des soins palliatifs [...] et le deuxième autour de l'aide à mourir'."
+    },
+    {
+      "id": "CO_05",
+      "type": "single_choice",
+      "question": "Pourquoi le sujet de l'aide à mourir est-il particulièrement sensible selon l'invité ?",
+      "options": [
+        "Parce qu'il coûte très cher à l'État.",
+        "Parce qu'il touche aux convictions personnelles et manque de données objectives.",
+        "Parce que les médecins refusent d'en parler."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Explication : 'c'est des sujets qui nous concernent tous, sur lesquels on a tous des convictions personnelles mais sur lesquelles il manque parfois des données'."
+    },
+    {
+      "id": "CO_06",
+      "type": "single_choice",
+      "question": "Quelle augmentation des besoins est prévue d'ici 2035 ?",
+      "options": [
+        "15 %.",
+        "50 %.",
+        "100 %."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Chiffre cité : 'd'ici à 2035, il y a 15 % de besoins supplémentaires'."
+    },
+    {
+      "id": "CO_07",
+      "type": "multiple_choice",
+      "question": "Quels sont les thèmes des groupes de travail cités par Clément Cormi ? (2 réponses)",
+      "options": [
+        "L'anticipation des prises en charge.",
+        "Le coût des funérailles.",
+        "Les désirs de mort.",
+        "L'architecture des hôpitaux."
+      ],
+      "correct_indices": [
+        0,
+        2
+      ],
+      "explanation": "Il cite un groupe sur 'les questions d'anticipation' et un autre 'autour des désirs de mort'."
+    },
+    {
+      "id": "CO_08",
+      "type": "single_choice",
+      "question": "Qui finance ce programme de recherche ?",
+      "options": [
+        "Le ministère de la Santé.",
+        "Le ministère de l'Enseignement supérieur et de la Recherche.",
+        "L'Union Européenne."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Fait précis : 'financé par le ministère de l'enseignement supérieur et de la recherche'."
+    },
+    {
+      "id": "CO_09",
+      "type": "single_choice",
+      "question": "Quel acteur institutionnel garantit une pluralité de points de vue dans la gouvernance ?",
+      "options": [
+        "L'ordre des médecins.",
+        "L'agence de programme de recherche en santé (avec les CHU et universités).",
+        "Le Sénat."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Il cite 'l'agence de programme de recherche en santé [...] avec les CHU, [...] universités'."
+    },
+    {
+      "id": "CO_10",
+      "type": "single_choice",
+      "question": "Pourquoi Clément Cormi ne trouve-t-il pas ce travail psychologiquement difficile au quotidien ?",
+      "options": [
+        "Parce qu'il ne rencontre jamais de patients.",
+        "Parce que la communauté des chercheurs est soudée et en parle librement.",
+        "Parce qu'il considère que ce n'est que de l'informatique."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Raison : 'une communauté [...] qui se soutient beaucoup. Ce qui permet d'en parler très librement'."
+    },
+    {
+      "id": "CO_11",
+      "type": "true_false_not_given",
+      "question": "Le programme de recherche a déjà publié des conclusions définitives.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Il dit : 'le programme vient d'être lancé, donc on n'a pas encore tout à fait de conclusions'."
+    },
+    {
+      "id": "CO_12",
+      "type": "true_false_not_given",
+      "question": "Les dispositifs de soins palliatifs existants sont actuellement utilisés à leur plein potentiel.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Il affirme : 'des dispositifs existent mais qu'ils ne sont pas utilisés à leur plein potentiel'."
+    },
+    {
+      "id": "CO_13",
+      "type": "true_false_not_given",
+      "question": "Clément Cormi enseigne l'informatique à l'université en parallèle de ses recherches.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        2
+      ],
+      "explanation": "Cela n'est pas dit. Il parle de son parcours universitaire passé, mais pas de ses activités d'enseignement actuelles."
+    }
+  ]
+}
