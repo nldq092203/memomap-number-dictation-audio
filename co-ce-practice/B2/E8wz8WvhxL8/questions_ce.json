@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "type": "compréhension_écrite",
+    "niveau": "B2",
+    "titre": "Nietzsche et l'acceptation radicale de l'existence",
+    "consigne": null,
+    "total_questions": 13
+  },
+  "questions": [
+    {
+      "id": "CE_01",
+      "type": "single_choice",
+      "question": "Selon le texte, quelle est l'attitude commune face au passé que Nietzsche critique ?",
+      "options": [
+        "L'oubli systématique des événements traumatisants.",
+        "Le désir de réécrire son histoire pour effacer les échecs et les souffrances.",
+        "La glorification nostalgique des souvenirs d'enfance."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte décrit l'attitude où l'on se dit : 'si c'était à refaire, vous ne le feriez pas de la même manière' pour éviter les moments 'pas très heureux'."
+    },
+    {
+      "id": "CE_02",
+      "type": "single_choice",
+      "question": "Comment Nietzsche définit-il le véritable bonheur ?",
+      "options": [
+        "Comme la capacité à ignorer les aspects négatifs de l'existence.",
+        "Comme l'acceptation intégrale du vécu, incluant le positif et le négatif.",
+        "Comme la poursuite constante de nouveaux plaisirs."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte affirme : 'le bonheur, c'est d'accepter ce que vous avez vécu comme vous l'avez vécu, le bon comme le mauvais'."
+    },
+    {
+      "id": "CE_03",
+      "type": "lexical_in_context",
+      "question": "Dans le contexte de l'œuvre 'Le Gai Savoir', que requiert l'acceptation de la vie ?",
+      "options": [
+        "Une audace et une force d'âme particulières.",
+        "Une grande intelligence académique.",
+        "Une indifférence totale aux émotions."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Nietzsche affirme que cela demande 'une âme forte, audacieuse, téméraire'."
+    },
+    {
+      "id": "CE_04",
+      "type": "inference",
+      "question": "Que symbolise la métaphore de 'Midi' utilisée par le philosophe ?",
+      "options": [
+        "Le moment de la journée où la chaleur est insupportable.",
+        "Un instant de lucidité absolue où l'on ne peut plus se cacher la vérité.",
+        "L'heure idéale pour prendre des décisions importantes."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "C'est l'heure 'sans ombre, pas d'abri', l'heure de 'vérité, sans concession, sans illusion'."
+    },
+    {
+      "id": "CE_05",
+      "type": "single_choice",
+      "question": "Qu'est-ce que Nietzsche considère comme des 'fausses consolations' ?",
+      "options": [
+        "Les médicaments et les thérapies modernes.",
+        "Les amis et la famille qui nous soutiennent.",
+        "Les croyances religieuses ou les utopies politiques."
+      ],
+      "correct_indices": [
+        2
+      ],
+      "explanation": "Le texte cite : 'des croyances qu'elles soient religieuses ou politiques' (Dieu, révolution) comme des échappatoires."
+    },
+    {
+      "id": "CE_06",
+      "type": "single_choice",
+      "question": "En quoi consiste le test ultime proposé par Nietzsche pour vérifier son amour de la vie ?",
+      "options": [
+        "Être prêt à revivre sa vie exactement à l'identique, sans rien changer.",
+        "Être capable de pardonner à tous ceux qui nous ont offensés.",
+        "Réussir à trouver du positif dans chaque situation dramatique."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Le test est : 'Seriez-vous capable de revivre ce que vous avez vécu sans rien échanger, sans rien souhaiter d'autre ?'."
+    },
+    {
+      "id": "CE_07",
+      "type": "lexical_in_context",
+      "question": "Que signifie le concept d''Amor Fati' mentionné dans le texte ?",
+      "options": [
+        "L'amour fatal.",
+        "L'amour du destin.",
+        "La fatigue de la mort."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte traduit 'Amor Fati' par 'l'amour du destin, l'amour de ce qui est'."
+    },
+    {
+      "id": "CE_08",
+      "type": "inference",
+      "question": "Quelle interprétation erronée est souvent faite de la phrase 'Deviens ce que tu es' ?",
+      "options": [
+        "On pense qu'il s'agit d'une invitation au développement personnel et à l'amélioration de soi.",
+        "On pense qu'il faut changer de métier pour trouver sa voie.",
+        "On pense que c'est une incitation à l'égoïsme."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Le contresens est de croire qu'il s'agit de 'donner la meilleure version de soi-même, de se réaliser'."
+    },
+    {
+      "id": "CE_09",
+      "type": "single_choice",
+      "question": "Selon la conclusion, quelle est la seule attitude valable face à notre identité ?",
+      "options": [
+        "Chercher à gommer ses défauts pour devenir meilleur.",
+        "Admettre notre nature telle qu'elle est sans chercher à être quelqu'un d'autre.",
+        "Se comparer aux autres pour progresser."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Il s'agit d''admettre qu'on ne deviendra pas autre chose que ce que l'on est'."
+    },
+    {
+      "id": "CE_10",
+      "type": "author_intention",
+      "question": "Quel est le but de ce document ?",
+      "options": [
+        "Faire la biographie de Nietzsche.",
+        "Expliquer comment la philosophie nietzschéenne peut aider à ne pas avoir de regrets.",
+        "Critiquer la société moderne et sa quête de confort."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte vise à expliquer 'Comment aimer la vie' grâce à la solution de Nietzsche face aux regrets."
+    },
+    {
+      "id": "CE_11",
+      "type": "true_false_not_given",
+      "question": "Pour Nietzsche, la mélancolie et la tristesse doivent être combattues pour être heureux.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Le texte dit qu'il faut être 'capable d'accueillir les larmes aussi' et que cette vie 'ne rejette pas les émotions douloureuses'."
+    },
+    {
+      "id": "CE_12",
+      "type": "true_false_not_given",
+      "question": "Nietzsche a écrit 'Le Gai Savoir' à la fin de sa vie.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        2
+      ],
+      "explanation": "Cela n'est pas dit. Le texte mentionne l'ouvrage 'Le Gai Savoir' mais ne précise pas à quel moment de sa vie il a été écrit."
+    },
+    {
+      "id": "CE_13",
+      "type": "true_false_not_given",
+      "question": "Nietzsche encourage les individus à chercher la richesse et la célébrité pour s'affirmer.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Le texte dit explicitement : 'Ne cherchez pas à devenir un autre [...] plus riche, plus célèbre'."
+    }
+  ]
+}
